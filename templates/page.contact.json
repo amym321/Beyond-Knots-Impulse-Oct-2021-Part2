@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1636841085e36ee7a6": {
+      "type": "rich-text",
+      "blocks": {
+        "16368410856f7ec022-0": {
+          "type": "heading",
+          "settings": {
+            "title": "KONTACT & FAQ"
+          }
+        },
+        "16368410856f7ec022-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir haben eine Rubrik \"Häufig gestellte Fragen\" eingerichtet, um Sie mit Informationen zu versorgen. Wir würden uns freuen, Ihre Fragen über das unten stehende Kontaktformular beantworten zu können.<\/p>"
+          }
+        },
+        "e5443195-8f83-4af6-b291-ae7586f02d19": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "link_text": "FAQ"
+          }
+        }
+      },
+      "block_order": [
+        "16368410856f7ec022-0",
+        "16368410856f7ec022-1",
+        "e5443195-8f83-4af6-b291-ae7586f02d19"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1636840992a93f1487": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "1636840992ce46625c-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "1636840992ce46625c-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Kontakt"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Bitte senden Sie uns eine Nachricht. Wir helfen Ihnen gerne weiter!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1636841085e36ee7a6",
+    "1636840992a93f1487",
+    "rich-text",
+    "form"
+  ]
+}

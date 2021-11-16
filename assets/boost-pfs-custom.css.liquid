@@ -1,0 +1,134 @@
+/*********************** Custom CSS for Boost Filter & Search  ************************/
+{% assign breakpointMobile = '767px' %}
+{% assign breakpointDesktop = '768px' %}
+{% assign searchBoxMobileHeight = '64px' %}
+
+/**************************** Place your custom css below  ****************************/
+.boost-pfs-filter-option-block .boost-pfs-filter-block-title h3 > span::before {
+  position: absolute;
+  right: 10px;
+  top: 8px;
+  padding: 3px;
+  border: 1px solid black;
+  border-left: none;
+  border-top: none;
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.boost-pfs-filter-option-block .boost-pfs-filter-block-title h3 > span.up::before {
+  top: 5px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.boost-pfs-filter-block-title h3 span {
+  font-family: "Futura", sans-serif;
+  font-weight: normal;
+  font-size: 0.9em;
+  letter-spacing: 0.3em;
+}
+
+.boost-pfs-filter-block-title .boost-pfs-filter-clear {
+  margin-right: 40px;
+}
+
+.bc-hide {
+  display: none !important;
+}
+
+@media screen and (max-width: {{breakpointMobile}}) {
+  .boost-pfs-filter-tree {
+    display: block !important;
+  }
+}
+#CollectionSidebar .drawer__inner {
+  overflow-y: auto;
+  height: calc(100vh - 70px);
+}
+
+#FilterDrawer {
+  overflow-y: scroll;
+}
+#FilterDrawer .drawer__inner {
+  padding: 0 20px;
+}
+
+/**** Custom Search result toolbar ****/
+.boost-pfs-search-result-toolbar {
+  display: flex;
+  align-items: center;
+  margin: 35px 0;
+  border-top: 1px solid #ededed;
+  border-bottom: 1px solid #ededed;
+  white-space: nowrap;
+}
+.boost-pfs-search-result-toolbar .boost-pfs-search-result-item:first-child {
+  flex: auto;
+}
+.boost-pfs-search-result-toolbar .boost-pfs-search-result-panel-controls {
+  padding: 17px 0;
+  margin: 0;
+}
+@media (max-width: {{breakpointMobile}}) {
+  .boost-pfs-search-result-toolbar .boost-pfs-search-total-result {
+    display: none;
+  }
+}
+#PredictiveWrapper {
+  display: none;
+}
+@media screen and (min-width: 769px) {
+  .boost-pfs-search-page .collection-filter__item--drawer {
+    display: none;
+  }
+  .grid__item--sidebar {
+    position: unset;
+    top: 10px;
+    max-height: 100%;
+    overflow-y: hidden;
+  }
+}
+
+.boost-pfs-filter-tree-h {
+    position: relative;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.grid-product__price--savings {
+	display: none;
+}
+
+.grid-product__price--original ~ .grid-product__price--sale {
+	color: #b30625;
+}
+
+.grid-product__tag--sale {
+    background-color: transparent;
+    color: #fff;
+    overflow: hidden;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 117 75.45'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%23ce4458;%7D%3C/style%3E%3C/defs%3E%3Cg id='Layer_2' data-name='Layer 2'%3E%3Cg id='Layer_1-2' data-name='Layer 1'%3E%3Cpath class='cls-1' d='M117,75.42C65.08,29.21,63.3,94,0,69.89V11.64C52.39,37.83,70.13-29.85,117,17Z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 50px;
+}
+
+.grid-product__tag--sale .hex {
+    height: 25px;
+    margin: 10px 0;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.boost-pfs-filter-measure-info {
+	margin-bottom: 5px;
+}

@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": ""
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Hinweis zu den Fotos",
+            "content": "<p>Die Farben dieses Teppichs variieren, je nachdem, von welcher Seite er betrachtet wird. Das heißt, der Teppich hat eine helle und eine  dunkle Seite wegen der Lage des Flors. Sie können mit diesem sichtbaren Effekt spielen und vorab entscheiden, von wo die helle Seite des Teppichs zu sehen seien soll.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "eine Frage stellen",
+            "phone": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16366882567b8abd64": {
+      "type": "text-columns",
+      "blocks": {
+        "16366882567b8abd64-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/handgeknupft-handgewebt-handgefertigt-teppiche.png",
+            "image_width": 60,
+            "title": "Handgeknüpft & handgewebt",
+            "text": "<p>Jeder einzelne Teppich ist zu 100% handgeknüpft oder handgewebt und wird von Nomaden und Kunsthandwerkern nach alten Mustern und Traditionen hergestellt.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16366882567b8abd64-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Hochwertige-Rohstoffe-teppiche-beyondknots.png",
+            "image_width": 60,
+            "title": "Nachhaltig und natürlich",
+            "text": "<p>Unsere Teppiche werden aus 100 % nachhaltigen und biologisch abbaubaren Materialien wie Schurwolle und Seide hergestellt. Die unverwechselbaren Farben werden natürlich aus Pflanzen gewonnen.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16366882567b8abd64-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Geld-sparen-BeyondKnots-teppiche.png",
+            "image_width": 60,
+            "title": "GROSSHANDELSPREISEN",
+            "text": "<p>Sparen Sie Geld mit Großhandelspreisen. Wir beziehen die Teppiche direkt von den Knüpfern in den einzelnen Ländern. Es gibt keine Zwischenhändler, und wir haben Tausende von Teppichen in unserem Lager bereit zum Versand.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9e3bcba2-ae43-4a9f-bf48-ca3171986815": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Seltene-Teppiche-BeyondKnots.png",
+            "image_width": 60,
+            "title": "Seltene Teppiche fachmännisch beschafft",
+            "text": "<p>Jahrzehntelang haben wir die Welt bereist, um die seltensten Teppiche auszuwählen. Wir sind hervorragend darin, den perfekten Teppich für Sie zu finden.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16366882567b8abd64-0",
+        "16366882567b8abd64-1",
+        "16366882567b8abd64-2",
+        "9e3bcba2-ae43-4a9f-bf48-ca3171986815"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "DAS KÖNNTE IHNEN AUCH GEFALLEN",
+        "related_count": 5
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Bestellung und Abwicklung war super unkompliziert. Große Auswahl und gute Qualität. Teppich sieht auch super aus, wie auf den Bildern. Immer wieder gern!<\/p>",
+            "author": "SP",
+            "author_info": "Deutschland"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Wir sind total begeistert!! Unser neuer Teppich passt perfekt ins Wohnzimmer und er ist sogar noch schöner als gedacht! Vielen Dank für die nette Beratung und die schnelle Lieferung! <\/p>",
+            "author": "Anahita Richter",
+            "author_info": "Deutschland"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Wunderschöne Kissenhüllen- genau so, wie auf den Fotos! Lieferung kam zügig- ich bin komplett zufrieden. War mit Sicherheit nicht mein letzter Einkauf bei Beyond knots.<\/p>",
+            "author": "Katrin Theissing",
+            "author_info": "Deutschland"
+          }
+        },
+        "f5e568de-6397-4ef9-b8fb-9089188aa6c3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Top Qualität, super Kundenservice! Ich habe bei BeyondKnots meinen Traumteppich gefunden! Alles verlief reibungslos. Von der Bestellung, dem Kundenservice bis hin zur Lieferung! Habe einen qualitativ hochwertigen und wunderschönen Teppich erhalten. Immer wieder gerne.<\/p>",
+            "author": "Visctoria I.",
+            "author_info": "Deutschland"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2",
+        "f5e568de-6397-4ef9-b8fb-9089188aa6c3"
+      ],
+      "settings": {
+        "title": "DAS SAGEN UNSERE KUNDEN AUF TRUSTPILOT",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#caaf75",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16366882567b8abd64",
+    "sub",
+    "product-recommendations",
+    "testimonials",
+    "recently-viewed",
+    "collection-return"
+  ]
+}
