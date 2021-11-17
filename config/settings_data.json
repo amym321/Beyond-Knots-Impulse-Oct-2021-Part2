@@ -196,7 +196,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "testing",
+          "mode": "enabled",
           "popup_seconds": 5,
           "popup_days": 14,
           "popup_title": "Abonnieren und sparen!",
