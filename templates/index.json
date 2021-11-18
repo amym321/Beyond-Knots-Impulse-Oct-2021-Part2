@@ -23,7 +23,6 @@
         },
         "slideshow-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "Einzigartig Schön…<br>Exquisit Detailliert…",
@@ -199,7 +198,7 @@
         "987c62be-a81f-4bc1-b768-58da2b978fc1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weniger-als-500-preis-beyondknots4.jpg",
+            "image": "shopify:\/\/shop_images\/weniger-als-500-preis-beyondknots3.2.jpg",
             "link": "shopify:\/\/collections\/shoppen-nach-preis-2"
           }
         },
@@ -220,14 +219,14 @@
         "1635977687eb1526d8-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mehr-als-5000-preis-beyondknots-4.jpg",
+            "image": "shopify:\/\/shop_images\/mehr-als-5000-preis-beyondknots3.jpg",
             "link": "shopify:\/\/collections\/shoppen-nach-preis"
           }
         },
         "1635977687eb1526d8-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/keine-praferenz-preis-beyondknots-4.jpg",
+            "image": "shopify:\/\/shop_images\/keine-praferenz-preis-beyondknots3.jpg",
             "link": "shopify:\/\/collections\/alle-teppiche"
           }
         }
