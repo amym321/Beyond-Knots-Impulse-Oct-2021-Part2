@@ -8,7 +8,7 @@
           "settings": {
             "top_subheading": "",
             "title": "DIREKT VOM KNÜPFER ZU GROSSHANDELSPREISEN",
-            "title_size": 55,
+            "title_size": 48,
             "subheading": "SIE WERDEN SICH ÜBER DIE ERSPARNISSE FREUEN",
             "link": "shopify:\/\/collections\/alle-teppiche",
             "link_text": "Alle teppiche",
@@ -23,11 +23,10 @@
         },
         "slideshow-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "Einzigartig Schön…<br>Exquisit Detailliert…",
-            "title_size": 55,
+            "title_size": 48,
             "subheading": "ECHTE SORGFÄLTIG AUSGEWÄHLTE TEPPICHE",
             "link": "shopify:\/\/collections\/teppiche",
             "link_text": "jetzt shoppen",
