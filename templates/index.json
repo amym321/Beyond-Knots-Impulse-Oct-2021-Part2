@@ -459,22 +459,6 @@
         "space_below": false
       }
     },
-    "background-image-text": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "shopify:\/\/collections\/all",
-        "focal_point": "80% 0",
-        "layout": "left",
-        "height": 750,
-        "framed": false,
-        "parallax": true
-      }
-    },
     "16359778752ac2c08f": {
       "type": "text-and-image",
       "settings": {
@@ -747,7 +731,6 @@
     "1636043983021a7126",
     "16364295345596a334",
     "promo-grid",
-    "background-image-text",
     "16359778752ac2c08f",
     "1635991538beb64167",
     "1636747789ef8e9700",
