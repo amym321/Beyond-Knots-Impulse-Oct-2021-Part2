@@ -703,53 +703,6 @@
         "autoplay_speed": 5
       }
     },
-    "1636571145d62308ba": {
-      "type": "testimonials",
-      "blocks": {
-        "1636571145d62308ba-0": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "",
-            "image": "shopify:\/\/shop_images\/kissen_6.png",
-            "author": "",
-            "author_info": ""
-          }
-        },
-        "1636571145d62308ba-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-560121127-612x612_b.jpg",
-            "author": "",
-            "author_info": ""
-          }
-        },
-        "1636571145d62308ba-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-1136796476-612x612_b.jpg",
-            "author": "",
-            "author_info": ""
-          }
-        }
-      },
-      "block_order": [
-        "1636571145d62308ba-0",
-        "1636571145d62308ba-1",
-        "1636571145d62308ba-2"
-      ],
-      "settings": {
-        "title": "FOLGE UNS AUF INSTAGRAM @BEYONDKNOTS.DE",
-        "align_text": "center",
-        "round_images": false,
-        "color_background": "#e8e8e1",
-        "color_text": "#1c1d1d"
-      }
-    },
     "map": {
       "type": "map",
       "settings": {
@@ -813,7 +766,6 @@
     "1635892371a4dd4204",
     "16363916050193edba",
     "1636391246bc92262d",
-    "1636571145d62308ba",
     "map",
     "1636686660d496c30e"
   ]
