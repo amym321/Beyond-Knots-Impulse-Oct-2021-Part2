@@ -694,7 +694,7 @@
         "1637347196f590cb0c-1": {
           "type": "liquid",
           "settings": {
-            "code": "<br class=\"break-margin\">\n<style>\n.break-margin {\nmargin-bottom: 300px; }\n<\/style>",
+            "code": "<br class=\"break-margin\">\n<style>\n.break-margin {\npadding-bottom: 300px; }\n<\/style>",
             "width": "100%",
             "alignment": "center"
           }
