@@ -704,25 +704,13 @@
         "autoplay_speed": 5
       }
     },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Öffnungszeiten des Showrooms",
-        "address": "<p>Papenreye 14, 22453 Hamburg<\/p><p>M - F:  10:00am - 6:00pm<br\/>Sa & So:  Abgeschlossen<br\/><br\/><br\/><\/p>",
-        "map_address": "Papenreye 14, 22453 Hamburg",
-        "api_key": "",
-        "show_button": false,
-        "background_image": "shopify:\/\/shop_images\/overall-showroom-photo.jpg",
-        "background_image_position": "bottom right"
-      }
-    },
     "1637345445c5731800": {
       "type": "advanced-content",
       "blocks": {
         "16373454457b6b46ad-1": {
           "type": "liquid",
           "settings": {
-            "code": "<hr class=\"dark\">\n<style>\n.dark {\n  color: #ffffff00;\n  border-top: 3px solid;\n}\n<\/style><\/p>",
+            "code": "<hr class=\"dark\">\n<style>\n.dark {\n  color: #ffffff00;\n  border-top: 3px solid;\n}\n<\/style>",
             "width": "100%",
             "alignment": "center"
           }
@@ -734,6 +722,18 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Öffnungszeiten des Showrooms",
+        "address": "<p>Papenreye 14, 22453 Hamburg<\/p><p>M - F:  10:00am - 6:00pm<br\/>Sa & So:  Abgeschlossen<br\/><br\/><br\/><\/p>",
+        "map_address": "Papenreye 14, 22453 Hamburg",
+        "api_key": "",
+        "show_button": false,
+        "background_image": "shopify:\/\/shop_images\/overall-showroom-photo.jpg",
+        "background_image_position": "bottom right"
       }
     }
   },
@@ -755,7 +755,7 @@
     "1635892371a4dd4204",
     "16363916050193edba",
     "1636391246bc92262d",
-    "map",
-    "1637345445c5731800"
+    "1637345445c5731800",
+    "map"
   ]
 }
