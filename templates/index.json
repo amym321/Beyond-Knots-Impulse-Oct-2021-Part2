@@ -633,6 +633,7 @@
       "blocks": {
         "a00987cb-0ff4-49e5-9b6b-7857a060eaee": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "disabled": true,
           "settings": {
             "heading_font": "tenor_sans_n4",
             "heading_size": 20,
@@ -684,7 +685,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Insta_1.jpg",
+            "image": "shopify:\/\/shop_images\/Instagram-BeyondKnots-Teppiche.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Insta_3.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -714,38 +715,6 @@
         "background_image": "shopify:\/\/shop_images\/overall-showroom-photo.jpg",
         "background_image_position": "bottom right"
       }
-    },
-    "1636686660d496c30e": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "1636686660d496c30e-0": {
-          "type": "title",
-          "settings": {
-            "title": "ABONNIEREN SIE UNSEREN NEWSLETTER UND ERHALTEN SIE EINEN 5% RABATTCODE!"
-          }
-        },
-        "1636686660d496c30e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Aktionen, neue Produkte und Rabatte. Immer up-to-date.<\/p>"
-          }
-        },
-        "1636686660d496c30e-2": {
-          "type": "form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1636686660d496c30e-0",
-        "1636686660d496c30e-1",
-        "1636686660d496c30e-2"
-      ],
-      "settings": {
-        "color_background": "#e8e8e1",
-        "color_text": "#1c1d1d"
-      }
     }
   },
   "order": [
@@ -766,7 +735,6 @@
     "1635892371a4dd4204",
     "16363916050193edba",
     "1636391246bc92262d",
-    "map",
-    "1636686660d496c30e"
+    "map"
   ]
 }
