@@ -54,7 +54,7 @@
     "product_grid_image_fill": true,
     "product_hover_image": false,
     "collection_grid_style": "overlaid-box",
-    "collection_grid_shape": "square",
+    "collection_grid_shape": "portrait",
     "collection_grid_image": "product",
     "collection_grid_text_align": "center",
     "collection_grid_tint": "#000000",
@@ -204,7 +204,7 @@
           "popup_text": "<p>ABONNIEREN SIE UNSEREN NEWSLETTER UND ERHALTEN SIE EINEN <strong>5% RABATTCODE!<\/strong> LASSEN SIE SICH ÜBER GROSSARTIGE RABATTE UND NEUE PRODUKTE INFORMIEREN.<\/p>",
           "close_text": "Nein danke",
           "enable_newsletter": true,
-          "button_label": "Optional button",
+          "button_label": "",
           "button_link": "",
           "enable_button": false
         }
