@@ -735,6 +735,26 @@
         "background_image": "shopify:\/\/shop_images\/overall-showroom-photo.jpg",
         "background_image_position": "bottom right"
       }
+    },
+    "16373471967c000a90": {
+      "type": "advanced-content",
+      "blocks": {
+        "1637347196f590cb0c-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<br>",
+            "width": "75%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1637347196f590cb0c-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -756,6 +776,7 @@
     "16363916050193edba",
     "1636391246bc92262d",
     "1637345445c5731800",
-    "map"
+    "map",
+    "16373471967c000a90"
   ]
 }
