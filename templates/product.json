@@ -159,7 +159,6 @@
     },
     "sub": {
       "type": "product-full-width",
-      "disabled": true,
       "settings": {
         "max_width": true
       }
