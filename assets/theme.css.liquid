@@ -11382,37 +11382,50 @@ button .hero__slide-link {
   border: 3px solid;
 }
 
+
 /* PDP image max height */
 .product__photos .photoswipe__image,
 .product-recommendations .photoswipe__image,
-.RecentlyViewed-template--14183688765495__recently-viewed .photoswipe__image {
-  max-height: 85vh;
+#shopify-section-template--14185352626231__recently-viewed .photoswipe__image {
+  /* max-height: 85vh;
+      background-position: center;   */
 }
 .product__photos .flickity-viewport,
 .product-recommendations .flickity-viewport,
-.RecentlyViewed-template--14183688765495__recently-viewed .flickity-viewport {
-  max-height: 85vh;
+#shopify-section-template--14185352626231__recently-viewed .flickity-viewport {
+  /* max-height: 85vh;
+      background-position: center; */
 }
 .product-image-main .image-wrap,
 .product-recommendations .image-wrap,
-.RecentlyViewed-template--14183688765495__recently-viewed .image-wrap {
-  width: auto;
+#shopify-section-template--14185352626231__recently-viewed .image-wrap {
+  /* width: auto;
+      background-position: center; */
 }
 .product__photos img,
 .product-recommendations img,
-.RecentlyViewed-template--14183688765495__recently-viewed img {
-  width: auto;
+#shopify-section-template--14185352626231__recently-viewed img {
+  object-fit:  contain;
+  /* width: auto;
+      margin-left: auto;
+      margin-right: auto;
+      background-position: center; */
 }
 
 @media only screen and (max-width: 1026px) {
   .product__photos .photoswipe__image,
   .product-recommendations .photoswipe__image,
-  .RecentlyViewed-template--14183688765495__recently-viewed .photoswipe__image {
+  #shopify-section-template--14185352626231__recently-viewed .photoswipe__image {
     max-height: 70vh;
   }
   .product__photos .flickity-viewport,
   .product-recommendations .flickity-viewport,
-  .RecentlyViewed-template--14183688765495__recently-viewed .flickity-viewport {
+  #shopify-section-template--14185352626231__recently-viewed .flickity-viewport {
     max-height: 70vh;
   }
 }
+
+/* image does not cover */
+/* .grid__image-ratio img {
+  object-fit:  contain;
+} */
