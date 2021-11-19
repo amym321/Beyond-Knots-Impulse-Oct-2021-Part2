@@ -710,7 +710,7 @@
         "16373454457b6b46ad-1": {
           "type": "liquid",
           "settings": {
-            "code": "<hr class=\"dark\">\n<style>\n.dark {\n  color: #ffffff00;\n  border-top: 3px solid;\n}\n<\/style>",
+            "code": "<hr class=\"transparent\">\n<style>\n.transparent {\n  color: #ffffff00;\n  border-top: 3px solid;\n}\n<\/style>",
             "width": "100%",
             "alignment": "center"
           }
