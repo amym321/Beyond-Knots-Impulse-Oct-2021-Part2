@@ -58,7 +58,7 @@
             "label": "AUSVERKAUF ZUM SAISONENDE",
             "image": "shopify:\/\/shop_images\/Lagerverkauf-zum-Saisonende-Beyondknots-Teppiche.jpg",
             "color_tint": "#2c3542",
-            "color_tint_opacity": 14,
+            "color_tint_opacity": 0,
             "framed": true
           }
         },
