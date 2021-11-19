@@ -82,7 +82,7 @@
             "image": "shopify:\/\/shop_images\/handgeknupft-handgewebt-handgefertigt-teppiche.png",
             "image_width": 60,
             "title": "Handgeknüpft & handgewebt",
-            "text": "<p>Jeder einzelne Teppich ist zu 100% handgeknüpft oder handgewebt und wird von Nomaden und Kunsthandwerkern nach alten Mustern und Traditionen hergestellt.<\/p>",
+            "text": "<p>Jeder einzelne Teppich ist zu 100% handgeknüpft oder handgewebt und wird von Nomaden und Meisterknüpfern nach alten Mustern und Traditionen hergestellt.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -93,7 +93,7 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Hochwertige-Rohstoffe-teppiche-beyondknots.png",
             "image_width": 60,
-            "title": "Nachhaltig und natürlich",
+            "title": "Nachhaltig UND natürlich",
             "text": "<p>Unsere Teppiche werden aus 100 % nachhaltigen und biologisch abbaubaren Materialien wie Schurwolle und Seide hergestellt. Die unverwechselbaren Farben werden natürlich aus Pflanzen gewonnen.<\/p>",
             "button_label": "",
             "button_link": ""
@@ -105,8 +105,8 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Geld-sparen-BeyondKnots-teppiche.png",
             "image_width": 60,
-            "title": "GROSSHANDELSPREISEN",
-            "text": "<p>Sparen Sie Geld mit Großhandelspreisen. Wir beziehen die Teppiche direkt von den Knüpfern in den einzelnen Ländern. Es gibt keine Zwischenhändler, und wir haben Tausende von Teppichen in unserem Lager bereit zum Versand.<\/p>",
+            "title": "GROSSHANDELSPREISE",
+            "text": "<p><\/p><p>Sparen Sie Geld mit Großhandelspreisen. Wir beziehen die Teppiche direkt von den Knüpfern der einzelnen Länder. Es gibt keine Zwischenhändler, und wir haben Tausende von Teppichen in unserem Lager bereit zum Versand.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -117,8 +117,8 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Seltene-Teppiche-BeyondKnots.png",
             "image_width": 60,
-            "title": "Seltene Teppiche fachmännisch beschafft",
-            "text": "<p>Jahrzehntelang haben wir die Welt bereist, um die seltensten Teppiche auszuwählen. Wir sind hervorragend darin, den perfekten Teppich für Sie zu finden.<\/p>",
+            "title": "Teppich Unikate fachmännisch beschafft",
+            "text": "<p>Jahrzehntelang haben wir die Welt bereist, um die einzigartigsten, qualitativsten Teppiche auszuwählen. Wir sind hervorragend darin, den perfekten Teppich für Sie zu finden.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -143,9 +143,9 @@
           "type": "advanced",
           "settings": {
             "subheading": "",
-            "heading": "BIS ZU 70% RABATT SPAREN",
+            "heading": "BIS ZU -70% RABATT",
             "textarea": "<b>WIR SCHAFFEN IMMER WIEDER PLATZ FÜR UNSERE NEU ERWORBENEN TEPPICHE. <br>KAUFEN SIE JETZT UNSERE MEISTERWERKE DER VERGANGENEN SAISON ZU REDUZIERTEN PREISEN.<\/b>",
-            "cta_text1": "JETZT SHOPPEN",
+            "cta_text1": "JETZT SPAREN",
             "cta_link1": "shopify:\/\/collections\/sale",
             "cta_text2": "",
             "cta_link2": "",
@@ -198,7 +198,7 @@
         "987c62be-a81f-4bc1-b768-58da2b978fc1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weniger-als-500-preis-beyondknots3.2.jpg",
+            "image": "shopify:\/\/shop_images\/weniger-als-500-preis-beyondknots4.jpg",
             "link": "shopify:\/\/collections\/shoppen-nach-preis-2"
           }
         },
@@ -219,14 +219,14 @@
         "1635977687eb1526d8-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mehr-als-5000-preis-beyondknots3.jpg",
+            "image": "shopify:\/\/shop_images\/mehr-als-5000-preis-beyondknots-4.jpg",
             "link": "shopify:\/\/collections\/shoppen-nach-preis"
           }
         },
         "1635977687eb1526d8-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/keine-praferenz-preis-beyondknots3.jpg",
+            "image": "shopify:\/\/shop_images\/keine-praferenz-preis-beyondknots-4.jpg",
             "link": "shopify:\/\/collections\/alle-teppiche"
           }
         }
@@ -316,12 +316,12 @@
           "settings": {
             "subheading": "",
             "heading": "<b>Traditionell<\/b>",
-            "textarea": "<b>MEISTERWERKE EINZIGARTIGER HANDGEKNOTTER ORIENTALISCHER TEPPICHE<\/b><br><br><br>",
+            "textarea": "<b>MEISTERWERKE EINZIGARTIGER HANDGEMACHTER ORIENTALISCHER TEPPICHE<\/b><br><br><br>",
             "cta_text1": "JETZT SHOPPEN",
             "cta_link1": "shopify:\/\/collections\/traditional",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-560121127-612x612_b.jpg",
+            "image": "shopify:\/\/shop_images\/robert-levonyan-XB93BUnJtqA-unsplash_1302da46-1211-439e-8503-fd8e5cbb3609.jpg",
             "video_url": "",
             "width": "33",
             "height": 400,
@@ -338,12 +338,12 @@
           "settings": {
             "subheading": "",
             "heading": "<b> MODERN<\/b>",
-            "textarea": "<b>INNOVATIVE MATERIALIEN, UNTERSCHIEDLICHE PAPTHÖHEN UND HELLE FARBEN ÜBERWINDEN TRADITIONELLE GRENZEN<\/b><br><br>",
+            "textarea": "<b>SORGFÄLTIG AUSGEWÄHLTE DESIGNERTEPPICHE FÜR EIN MODERNES INTERIOR<\/b><br><br>",
             "cta_text1": "JETZT SHOPPEN",
             "cta_link1": "shopify:\/\/collections\/modern",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/monochrome_2.png",
+            "image": "shopify:\/\/shop_images\/elizaveta-shitikova-nK42uKQd_D0-unsplash.jpg",
             "video_url": "",
             "width": "33",
             "height": 400,
@@ -360,12 +360,12 @@
           "settings": {
             "subheading": "",
             "heading": "<b>monochrom<\/b>",
-            "textarea": "<b>TEPPICHE MIT EINFACHEN UND MODERNEN DESIGNS, DIE UNTER VERWENDUNG EINER ÄHNLICHEN FARBPALETTE ERSTELLT WURDEN<\/b><br><br>",
+            "textarea": "<b>MODERN, EINFACH UND DEZENT. MONOCHROM FARBENDE MEISTERWERKE<\/b><br><br>",
             "cta_text1": "JETZT SHOPPEN",
             "cta_link1": "shopify:\/\/collections\/plain",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-1136796476-612x612_b.jpg",
+            "image": "shopify:\/\/shop_images\/GrauPlain3_1800x1800_4f9f7d87-3258-460b-918a-f866251a3cd7.jpg",
             "video_url": "",
             "width": "33",
             "height": 400,
@@ -382,12 +382,12 @@
           "settings": {
             "subheading": "",
             "heading": "<b>KELIM<\/b>",
-            "textarea": "<b>TRADITIONELLE TEPPICHE, HANDGEWEBT VON IRANISCHEN NOMADEN<\/b><br><br><br>",
+            "textarea": "<b>TRADITIONELLE KELIM DESIGNS, HANDGEWEBT UND LEBHAFT<\/b><br><br><br>",
             "cta_text1": "JETZT SHOPPEN",
             "cta_link1": "shopify:\/\/collections\/kelim",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-638080862-612x612_B.jpg",
+            "image": "shopify:\/\/shop_images\/rsz__dsc0035.jpg",
             "video_url": "",
             "width": "33",
             "height": 400,
@@ -404,12 +404,12 @@
           "settings": {
             "subheading": "",
             "heading": "<b>VINTAGE<\/b>",
-            "textarea": "<b>TEPPICHE NACH ANTIKEM PERSISCHEN MUSTER UND MIT EINER GEALTERTEN FARBPALETE<\/b><br><br>",
+            "textarea": "<b>ANTIKE TEPPICHE, AUFGEARBEITET VON JUNGEN DESIGNERN<\/b><br><br>",
             "cta_text1": "JETZT SHOPPEN",
             "cta_link1": "shopify:\/\/collections\/vintage",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-122628401-2048x2048_B.jpg",
+            "image": "shopify:\/\/shop_images\/adam-niescioruk-bWiH0PDTB-g-unsplash_7e8bcf7b-af52-46d1-9839-cd2aff910c93.jpg",
             "video_url": "",
             "width": "33",
             "height": 400,
@@ -426,12 +426,12 @@
           "settings": {
             "subheading": "",
             "heading": "<b>KISSEN<\/b>",
-            "textarea": "<b>HANDGEKNOTTER NOMADISCHER KILIM AUS REINER SCHWOLLE UND HANDGEFERTIGTEN LEDERKISSEN<\/b><br><br>",
+            "textarea": "<b>HANDGEMACHTE KELIM- UND LEDERKISSEN IN UNZÄHLIGEN STYLES, FARBEN UND GRÖßEN<\/b><br><br>",
             "cta_text1": "JETZT SHOPPEN",
             "cta_link1": "shopify:\/\/collections\/kelim-kissen",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/kissen_6.png",
+            "image": "shopify:\/\/shop_images\/DSC_0194.jpg",
             "video_url": "",
             "width": "33",
             "height": 400,
@@ -457,22 +457,6 @@
         "gutter_size": 20,
         "space_above": false,
         "space_below": false
-      }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "shopify:\/\/collections\/all",
-        "focal_point": "80% 0",
-        "layout": "left",
-        "height": 750,
-        "framed": false,
-        "parallax": true
       }
     },
     "16359778752ac2c08f": {
@@ -535,60 +519,31 @@
             "author_info": "Deutschland"
           }
         },
-        "1635892349d25399d0-0": {
+        "1635892349d25399d0-2": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>I bought a rug from Beyond Knots, my mum is Persian and highly critical of Persian rugs, but when I bought one for her birthday she was unbelievably pleased! Best gift I ever bought, she loves it!<\/p>",
-            "author": "Arthur Davies",
-            "author_info": "United Kingdom"
+            "testimonial": "<p>Sehr zufrieden. Der Teppich ist super hochwertig und unser neues Lieblingsstück.<\/p>",
+            "author": "Alice Hansen",
+            "author_info": "Deutschland"
           }
         },
         "2c0ee790-0591-45d2-9c5d-05df2ec5cbf8": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Sehr glücklich! Mein Vintage Teppich ist vorgestern<br\/>angekommen. Mein Mann und ich sind sehr zufrieden.Super Qualität und echt ein Hingucker! Lohnt sich für den Preis.<\/p>",
+            "testimonial": "<p>Sehr glücklich! Mein Vintage Teppich ist vorgestern angekommen. Mein Mann und ich sind sehr zufrieden.Super Qualität und echt ein Hingucker! Lohnt sich für den Preis.<\/p>",
             "author": "Laura Albrecht",
-            "author_info": "Deutschland"
-          }
-        },
-        "f711e910-5ded-4824-8bdb-643a831163e6": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Klasse Shop! Super schnelle Lieferung, derTeppich ist hochwertig und total schön. Danke!!!<\/p>",
-            "author": "Sarah Kruse",
             "author_info": "Deutschland"
           }
         },
         "1635892349d25399d0-1": {
           "type": "testimonial",
-          "disabled": true,
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Love the collections! All the rugs are so so modern and elegant. The quality is great since they’re authentic Persian\/Asian rugs. Love love love Beyond Knots!<\/p>",
             "author": "Mia Samtani",
             "author_info": "Hong Kong"
-          }
-        },
-        "1635892349d25399d0-2": {
-          "type": "testimonial",
-          "disabled": true,
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>I am absolutely in love with my purchase, great quality. Perhaps one of the best customers service!<\/p>",
-            "author": "Elham Ovc",
-            "author_info": "U. A. E."
-          }
-        },
-        "1635892349d25399d0-3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>I bought a rug from BeyondKnots and the quality and aesthetic of the rug were superb. All in all it was a wonderful service!<\/p>",
-            "author": "Sally Roberts",
-            "author_info": "United Kingdom"
           }
         },
         "1635892349d25399d0-4": {
@@ -608,18 +563,45 @@
             "author": "Antonia G.",
             "author_info": "Deutschland"
           }
+        },
+        "1635892349d25399d0-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I bought a rug from Beyond Knots, my mum is Persian and highly critical of Persian rugs, but when I bought one for her birthday she was unbelievably pleased! Best gift I ever bought, she loves it!<\/p>",
+            "author": "Arthur Davies",
+            "author_info": "United Kingdom"
+          }
+        },
+        "1635892349d25399d0-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I bought a rug from BeyondKnots and the quality and aesthetic of the rug were superb. All in all it was a wonderful service!<\/p>",
+            "author": "Sally Roberts",
+            "author_info": "United Kingdom"
+          }
+        },
+        "f711e910-5ded-4824-8bdb-643a831163e6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Klasse Shop! Super schnelle Lieferung, derTeppich ist hochwertig und total schön. Danke!!!<\/p>",
+            "author": "Sarah Kruse",
+            "author_info": "Deutschland"
+          }
         }
       },
       "block_order": [
         "220b2d53-74df-4798-b868-0424e1f9fba8",
-        "1635892349d25399d0-0",
-        "2c0ee790-0591-45d2-9c5d-05df2ec5cbf8",
-        "f711e910-5ded-4824-8bdb-643a831163e6",
-        "1635892349d25399d0-1",
         "1635892349d25399d0-2",
-        "1635892349d25399d0-3",
+        "2c0ee790-0591-45d2-9c5d-05df2ec5cbf8",
+        "1635892349d25399d0-1",
         "1635892349d25399d0-4",
-        "9c3bde6d-4115-40b8-9cfb-30ff60be151c"
+        "9c3bde6d-4115-40b8-9cfb-30ff60be151c",
+        "1635892349d25399d0-0",
+        "1635892349d25399d0-3",
+        "f711e910-5ded-4824-8bdb-643a831163e6"
       ],
       "settings": {
         "title": "Das sagen unsere Kunden auf trustpilot",
@@ -635,6 +617,7 @@
       "blocks": {
         "a00987cb-0ff4-49e5-9b6b-7857a060eaee": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "disabled": true,
           "settings": {
             "heading_font": "tenor_sans_n4",
             "heading_size": 20,
@@ -686,8 +669,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Insta_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Insta_3.jpg",
+            "image": "shopify:\/\/shop_images\/Instagram-BeyondKnots-Teppiche_30c0afaf-8fc8-4a50-b0da-bc20362f8d3d.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Instagram-BeyondKnots-Teppiche-mobile_15b82c37-f299-4c0a-afde-c3fa5d33805c.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -705,51 +688,24 @@
         "autoplay_speed": 5
       }
     },
-    "1636571145d62308ba": {
-      "type": "testimonials",
+    "16373471967c000a90": {
+      "type": "advanced-content",
       "blocks": {
-        "1636571145d62308ba-0": {
-          "type": "testimonial",
+        "1637347196f590cb0c-1": {
+          "type": "liquid",
           "settings": {
-            "icon": "none",
-            "testimonial": "",
-            "image": "shopify:\/\/shop_images\/kissen_6.png",
-            "author": "",
-            "author_info": ""
-          }
-        },
-        "1636571145d62308ba-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-560121127-612x612_b.jpg",
-            "author": "",
-            "author_info": ""
-          }
-        },
-        "1636571145d62308ba-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "testimonial": "",
-            "image": "shopify:\/\/shop_images\/gettyimages-1136796476-612x612_b.jpg",
-            "author": "",
-            "author_info": ""
+            "code": "<br>\n<br>\n<br>",
+            "width": "100%",
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "1636571145d62308ba-0",
-        "1636571145d62308ba-1",
-        "1636571145d62308ba-2"
+        "1637347196f590cb0c-1"
       ],
       "settings": {
-        "title": "FOLGE UNS AUF INSTAGRAM @BEYONDKNOTS.DE",
-        "align_text": "center",
-        "round_images": false,
-        "color_background": "#e8e8e1",
-        "color_text": "#1c1d1d"
+        "full_width": false,
+        "space_around": false
       }
     },
     "map": {
@@ -764,36 +720,24 @@
         "background_image_position": "bottom right"
       }
     },
-    "1636686660d496c30e": {
-      "type": "newsletter",
-      "disabled": true,
+    "16373476049b7c4231": {
+      "type": "advanced-content",
       "blocks": {
-        "1636686660d496c30e-0": {
-          "type": "title",
+        "1637347604e2688649-1": {
+          "type": "liquid",
           "settings": {
-            "title": "ABONNIEREN SIE UNSEREN NEWSLETTER UND ERHALTEN SIE EINEN 5% RABATTCODE!"
-          }
-        },
-        "1636686660d496c30e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Aktionen, neue Produkte und Rabatte. Immer up-to-date.<\/p>"
-          }
-        },
-        "1636686660d496c30e-2": {
-          "type": "form",
-          "settings": {
+            "code": "<br><br>",
+            "width": "100%",
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "1636686660d496c30e-0",
-        "1636686660d496c30e-1",
-        "1636686660d496c30e-2"
+        "1637347604e2688649-1"
       ],
       "settings": {
-        "color_background": "#e8e8e1",
-        "color_text": "#1c1d1d"
+        "full_width": false,
+        "space_around": false
       }
     }
   },
@@ -807,7 +751,6 @@
     "1636043983021a7126",
     "16364295345596a334",
     "promo-grid",
-    "background-image-text",
     "16359778752ac2c08f",
     "1635991538beb64167",
     "1636747789ef8e9700",
@@ -815,8 +758,8 @@
     "1635892371a4dd4204",
     "16363916050193edba",
     "1636391246bc92262d",
-    "1636571145d62308ba",
+    "16373471967c000a90",
     "map",
-    "1636686660d496c30e"
+    "16373476049b7c4231"
   ]
 }
