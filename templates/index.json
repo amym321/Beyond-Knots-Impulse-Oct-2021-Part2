@@ -535,20 +535,20 @@
             "author_info": "Deutschland"
           }
         },
-        "1635892349d25399d0-0": {
+        "1635892349d25399d0-2": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>I bought a rug from Beyond Knots, my mum is Persian and highly critical of Persian rugs, but when I bought one for her birthday she was unbelievably pleased! Best gift I ever bought, she loves it!<\/p>",
-            "author": "Arthur Davies",
-            "author_info": "United Kingdom"
+            "testimonial": "<p>Sehr zufrieden. Der Teppich ist super hochwertig und unser neues Lieblingsstück.<\/p>",
+            "author": "Alice Hansen",
+            "author_info": "Deutschland"
           }
         },
         "2c0ee790-0591-45d2-9c5d-05df2ec5cbf8": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Sehr glücklich! Mein Vintage Teppich ist vorgestern<br\/>angekommen. Mein Mann und ich sind sehr zufrieden.Super Qualität und echt ein Hingucker! Lohnt sich für den Preis.<\/p>",
+            "testimonial": "<p>Sehr glücklich! Mein Vintage Teppich ist vorgestern angekommen. Mein Mann und ich sind sehr zufrieden.Super Qualität und echt ein Hingucker! Lohnt sich für den Preis.<\/p>",
             "author": "Laura Albrecht",
             "author_info": "Deutschland"
           }
@@ -564,31 +564,11 @@
         },
         "1635892349d25399d0-1": {
           "type": "testimonial",
-          "disabled": true,
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Love the collections! All the rugs are so so modern and elegant. The quality is great since they’re authentic Persian\/Asian rugs. Love love love Beyond Knots!<\/p>",
             "author": "Mia Samtani",
             "author_info": "Hong Kong"
-          }
-        },
-        "1635892349d25399d0-2": {
-          "type": "testimonial",
-          "disabled": true,
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>I am absolutely in love with my purchase, great quality. Perhaps one of the best customers service!<\/p>",
-            "author": "Elham Ovc",
-            "author_info": "U. A. E."
-          }
-        },
-        "1635892349d25399d0-3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>I bought a rug from BeyondKnots and the quality and aesthetic of the rug were superb. All in all it was a wonderful service!<\/p>",
-            "author": "Sally Roberts",
-            "author_info": "United Kingdom"
           }
         },
         "1635892349d25399d0-4": {
@@ -600,6 +580,15 @@
             "author_info": "Deutschland"
           }
         },
+        "1635892349d25399d0-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I bought a rug from Beyond Knots, my mum is Persian and highly critical of Persian rugs, but when I bought one for her birthday she was unbelievably pleased! Best gift I ever bought, she loves it!<\/p>",
+            "author": "Arthur Davies",
+            "author_info": "United Kingdom"
+          }
+        },
         "9c3bde6d-4115-40b8-9cfb-30ff60be151c": {
           "type": "testimonial",
           "settings": {
@@ -608,18 +597,27 @@
             "author": "Antonia G.",
             "author_info": "Deutschland"
           }
+        },
+        "1635892349d25399d0-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I bought a rug from BeyondKnots and the quality and aesthetic of the rug were superb. All in all it was a wonderful service!<\/p>",
+            "author": "Sally Roberts",
+            "author_info": "United Kingdom"
+          }
         }
       },
       "block_order": [
         "220b2d53-74df-4798-b868-0424e1f9fba8",
-        "1635892349d25399d0-0",
+        "1635892349d25399d0-2",
         "2c0ee790-0591-45d2-9c5d-05df2ec5cbf8",
         "f711e910-5ded-4824-8bdb-643a831163e6",
         "1635892349d25399d0-1",
-        "1635892349d25399d0-2",
-        "1635892349d25399d0-3",
         "1635892349d25399d0-4",
-        "9c3bde6d-4115-40b8-9cfb-30ff60be151c"
+        "1635892349d25399d0-0",
+        "9c3bde6d-4115-40b8-9cfb-30ff60be151c",
+        "1635892349d25399d0-3"
       ],
       "settings": {
         "title": "Das sagen unsere Kunden auf trustpilot",
