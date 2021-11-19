@@ -35,7 +35,7 @@
             "color_accent": "#caaf75",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/DSC_0198.jpg",
-            "overlay_opacity": 12,
+            "overlay_opacity": 0,
             "focal_point": "bottom center"
           }
         }
