@@ -196,7 +196,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "disabled",
+          "mode": "enabled",
           "popup_seconds": 7,
           "popup_days": 14,
           "popup_title": "",
