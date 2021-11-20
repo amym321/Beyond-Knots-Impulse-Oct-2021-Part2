@@ -11384,32 +11384,64 @@ button .hero__slide-link {
 
 
 /* PDP image max height */
-.product__photos .photoswipe__image,
+.product__photos .photoswipe__image {
+  max-height: 85vh;
+}
+.product__photos .flickity-viewport {
+  max-height: 85vh;
+}
+.product-image-main .image-wrap {
+  width: auto;
+}
+.product__photos img {
+  width: auto;
+}
+
+@media only screen and (max-width: 1026px) {
+  .product__photos .photoswipe__image {
+    max-height: 70vh;
+  }
+  .product__photos .flickity-viewport {
+    max-height: 70vh;
+  }
+}
+
+/* Recently reviewed & You Might Like - image does not cover */
+.product-recommendations img,
+#shopify-section-template--14185352626231__recently-viewed img {
+  object-fit:  contain;
+} 
+
+
+
+
+
+
+
+
+/* PDP image max height */
+/* .product__photos .photoswipe__image,
 .product-recommendations .photoswipe__image,
 #shopify-section-template--14185352626231__recently-viewed .photoswipe__image {
-  /* max-height: 85vh;
-      background-position: center;   */
+
 }
 .product__photos .flickity-viewport,
 .product-recommendations .flickity-viewport,
 #shopify-section-template--14185352626231__recently-viewed .flickity-viewport {
-  /* max-height: 85vh;
-      background-position: center; */
+
 }
 .product-image-main .image-wrap,
 .product-recommendations .image-wrap,
 #shopify-section-template--14185352626231__recently-viewed .image-wrap {
-  /* width: auto;
-      background-position: center; */
+
 }
-.product__photos img,
-.product-recommendations img,
-#shopify-section-template--14185352626231__recently-viewed img {
-  object-fit:  contain;
-  /* width: auto;
-      margin-left: auto;
-      margin-right: auto;
-      background-position: center; */
+
+
+.product__photos img
+{
+
+  width: auto;
+
 }
 
 @media only screen and (max-width: 1026px) {
@@ -11425,7 +11457,7 @@ button .hero__slide-link {
   }
 }
 
-/* image does not cover */
-/* .grid__image-ratio img {
+.product-recommendations img,
+#shopify-section-template--14185352626231__recently-viewed img {
   object-fit:  contain;
-} */
+}  */
