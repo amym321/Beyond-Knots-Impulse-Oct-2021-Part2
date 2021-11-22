@@ -1,5 +1,25 @@
 {
   "sections": {
+    "1637608693b2ee4157": {
+      "type": "advanced-content",
+      "blocks": {
+        "16376086937473e3b3-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p><\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16376086937473e3b3-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -116,6 +136,7 @@
     }
   },
   "order": [
+    "1637608693b2ee4157",
     "main",
     "1636841085e36ee7a6",
     "1636840992a93f1487",
