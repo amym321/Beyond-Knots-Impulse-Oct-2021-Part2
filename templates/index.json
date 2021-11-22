@@ -573,15 +573,6 @@
             "author_info": "Deutschland"
           }
         },
-        "1635892349d25399d0-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Love the collections! All the rugs are so so modern and elegant. The quality is great since they’re authentic Persian\/Asian rugs. Love love love Beyond Knots!<\/p>",
-            "author": "Mia Samtani",
-            "author_info": "Hong Kong"
-          }
-        },
         "1635892349d25399d0-4": {
           "type": "testimonial",
           "settings": {
@@ -609,6 +600,15 @@
             "author_info": "United Kingdom"
           }
         },
+        "1635892349d25399d0-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Love the collections! All the rugs are so so modern and elegant. The quality is great since they’re authentic Persian\/Asian rugs. Love love love Beyond Knots!<\/p>",
+            "author": "Mia Samtani",
+            "author_info": "Hong Kong"
+          }
+        },
         "1635892349d25399d0-3": {
           "type": "testimonial",
           "settings": {
@@ -632,10 +632,10 @@
         "220b2d53-74df-4798-b868-0424e1f9fba8",
         "1635892349d25399d0-2",
         "2c0ee790-0591-45d2-9c5d-05df2ec5cbf8",
-        "1635892349d25399d0-1",
         "1635892349d25399d0-4",
         "9c3bde6d-4115-40b8-9cfb-30ff60be151c",
         "1635892349d25399d0-0",
+        "1635892349d25399d0-1",
         "1635892349d25399d0-3",
         "f711e910-5ded-4824-8bdb-643a831163e6"
       ],
