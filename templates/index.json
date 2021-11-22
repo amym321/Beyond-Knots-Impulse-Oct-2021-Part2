@@ -507,6 +507,42 @@
         "divider": false
       }
     },
+    "163760043273b26bc9": {
+      "type": "promo-grid",
+      "blocks": {
+        "cb1ba701-b19d-4f64-8a9a-8e5956600f35": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Neuzugänge!",
+            "textarea": "Entdecken Sie die neusten Trends und hochwertige Einzelstücke.",
+            "cta_text1": "Jetzt Sparen",
+            "cta_link1": "shopify:\/\/collections\/neuankommlinge",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Neuzugange-Beyondknots-Teppiche.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "top",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "cb1ba701-b19d-4f64-8a9a-8e5956600f35"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
     "1635892349d25399d0": {
       "type": "testimonials",
       "blocks": {
@@ -754,6 +790,7 @@
     "16359778752ac2c08f",
     "1635991538beb64167",
     "1636747789ef8e9700",
+    "163760043273b26bc9",
     "1635892349d25399d0",
     "1635892371a4dd4204",
     "16363916050193edba",
