@@ -527,7 +527,7 @@
             "text_size": 120,
             "text_align": "vertical-center horizontal-center",
             "focal_point": "top",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#caaf75",
             "boxed": false,
             "framed": true
           }
