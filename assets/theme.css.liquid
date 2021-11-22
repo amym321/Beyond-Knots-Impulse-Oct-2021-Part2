@@ -11299,3 +11299,131 @@ html[dir=rtl] .product-single__meta .rte{
 /******** added code - am / storetasker *********/
 /************************************************/
   
+/* Hero font */
+.hero__text-wrap,
+.slideshow__slide--slideshow-0 .hero__title,
+.slideshow__slide--slideshow-1 .hero__title { 
+  font-weight: 900 !important;
+}
+@media only screen and (min-width: 769px) {
+  .hero__subtitle { 
+  font-size: 2em; 
+  }
+}
+  
+/* hero button font */
+body .hero__slide-link,
+button .hero__slide-link {
+  font-size: calc(var(--typeBaseSize)*1.25) !important;
+}
+  
+/* Promo grid margin for collection boxes */
+.promo-grid__container--framed:not(.promo-grid__container--boxed) .promo-grid__content {  
+  margin: 0em; 
+}
+  
+/* more width on Logos with price buttons */
+.logo-bar__item {
+  flex: 0 1 130px;
+}
+@media only screen and (min-width: 769px) {
+  .logo-bar__item {
+    flex: 0 1 220px;
+  }
+}
+  
+/* compare at price in red */
+.on-sale {
+  color: #C20000;
+  font-weight: bold;
+}
+  
+/* collection page - more image spacing */
+@media only screen and (min-width: 769px) {
+  .collection-grid__wrapper .grid__item {
+    padding-left: 60px;
+  }
+}
+  
+/* Collection page padding */
+@media only screen and (min-width: 1026px) {
+  .collection-content .page-width {
+    padding: 0 200px !important;
+  }
+}
+  
+/* secondary button */
+.btn--secondary, .rte .btn--secondary {
+  color: #000;
+  border-color: #CAAF75;
+  background-color: #CAAF75;
+}
+  
+/* collection page product title italics */
+.grid-product__title {
+  font-style: italic;
+}
+
+/* Announcement - phone # in white */
+.announcement-link, .announcement-link:active,.announcement-link:hover,
+.announcement-link[x-apple-data-detectors],
+.announcement-link a {
+  color:{{ settings.color_announcement_text | default: "#fff" }} !important;
+}
+.announcement-text a{
+  color:{{ settings.color_announcement_text | default: "#fff" }} !important;
+}
+  
+/* Newsletter popup color */
+ .modal--square .modal__inner {
+  background-color: #fafafa;
+  background: #fafafa;
+  border-color: var(--colorTextBody);
+  border: 3px solid;
+}
+
+
+/* PDP image max height */
+.product__photos .photoswipe__image {
+  max-height: 85vh;
+}
+.product__photos .flickity-viewport {
+  max-height: 85vh;
+}
+.product-image-main .image-wrap {
+  width: auto;
+}
+.product__photos img {
+  width: auto;
+}
+
+@media only screen and (max-width: 1026px) {
+  .product__photos .photoswipe__image {
+    max-height: 70vh;
+  }
+  .product__photos .flickity-viewport {
+    max-height: 70vh;
+  }
+}
+
+/* Recently reviewed & You Might Like - image does not cover */
+.product-recommendations img,
+.recent-view-fit img {
+  object-fit:  contain;
+} 
+
+/* product-recommendations sale price red */
+.product-recommendations .grid-product__price {
+  color: #C20000;
+}
+
+.product-recommendations .grid-product__price--original {
+  color: #000000;
+}
+
+/* page width on some sections */
+@media only screen and (min-width: 769px){
+  .page-full, .page-width {
+    padding: 0 100px;
+  }
+}
