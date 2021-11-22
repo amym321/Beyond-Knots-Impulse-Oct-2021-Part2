@@ -6,7 +6,7 @@
         "1637608431c20d988e-1": {
           "type": "liquid",
           "settings": {
-            "code": "<p style=\"margin-top: -50px;\"><\/p>",
+            "code": "<p style=\"padding-top: -50px;\"><\/p>",
             "width": "100%",
             "alignment": "center"
           }
