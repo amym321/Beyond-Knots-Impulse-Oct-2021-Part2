@@ -1,5 +1,25 @@
 {
   "sections": {
+    "1637608556be6078f9": {
+      "type": "advanced-content",
+      "blocks": {
+        "1637608556635ad3b5-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p><\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1637608556635ad3b5-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -182,6 +202,7 @@
     }
   },
   "order": [
+    "1637608556be6078f9",
     "main",
     "163581654964ba8960",
     "faq"
