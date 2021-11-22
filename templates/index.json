@@ -152,7 +152,7 @@
             "image": "shopify:\/\/shop_images\/70_-RABATT-SPAREN-_BEYONDKNOTS-t.jpg",
             "video_url": "",
             "width": "100",
-            "height": 100,
+            "height": 400,
             "text_size": 120,
             "text_align": "vertical-center horizontal-center",
             "focal_point": "center",
@@ -167,7 +167,7 @@
       ],
       "settings": {
         "full_width": false,
-        "gutter_size": 20,
+        "gutter_size": 7,
         "space_above": false,
         "space_below": false
       }
@@ -515,7 +515,7 @@
           "settings": {
             "subheading": "",
             "heading": "Neuzugänge!",
-            "textarea": "Entdecken Sie die neusten Trends und hochwertige Einzelstücke.",
+            "textarea": "<b>ENTDECKEN SIE DIE NEUESTEN TRENDS UND HOCHWERTIGE EINZELSTÜCKE<\/b>",
             "cta_text1": "Jetzt Sparen",
             "cta_link1": "shopify:\/\/collections\/neuankommlinge",
             "cta_text2": "",
@@ -523,7 +523,7 @@
             "image": "shopify:\/\/shop_images\/Neuzugange-Beyondknots-Teppiche.jpg",
             "video_url": "",
             "width": "100",
-            "height": 500,
+            "height": 400,
             "text_size": 120,
             "text_align": "vertical-center horizontal-center",
             "focal_point": "top",
@@ -538,7 +538,7 @@
       ],
       "settings": {
         "full_width": false,
-        "gutter_size": 20,
+        "gutter_size": 10,
         "space_above": true,
         "space_below": true
       }
