@@ -8,6 +8,43 @@
         "parallax": true
       }
     },
+    "1637847821093bdc39": {
+      "type": "promo-grid",
+      "blocks": {
+        "b7f51620-d452-4dce-92e5-29125151aeba": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "heading": "AUSVERKAUF ZUM SAISONENDE <br><br>MEISTERWERKE DER VERGANGENEN SAISON ZU REDUZIERTEN PREISEN",
+            "textarea": "",
+            "cta_text1": "JEZT SPEICHERN",
+            "cta_link1": "shopify:\/\/collections\/sale",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Lagerverkauf-zum-Saisonende-Beyondknots-Teppiche_632d53ba-3096-4be3-9b17-3f47c76bae9d.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 360,
+            "text_size": 50,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "#2c3542",
+            "boxed": true,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "b7f51620-d452-4dce-92e5-29125151aeba"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -72,7 +109,7 @@
             "cta_link1": "shopify:\/\/collections\/sale",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/Lagerverkauf-zum-Saisonende-Beyondknots-Teppiche.jpg",
+            "image": "shopify:\/\/shop_images\/Lagerverkauf-zum-Saisonende-Beyondknots-Teppiche_632d53ba-3096-4be3-9b17-3f47c76bae9d.jpg",
             "video_url": "",
             "width": "100",
             "height": 360,
@@ -103,12 +140,78 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "1637849272454d3d9f": {
+      "type": "testimonials",
+      "blocks": {
+        "16378492727fb476fd-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "16378492727fb476fd-0",
+        "16378492727fb476fd-1",
+        "16378492727fb476fd-2",
+        "16378492727fb476fd-3",
+        "16378492727fb476fd-4"
+      ],
+      "settings": {
+        "title": "Das sagen unsere Kunden auf trustpilot",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#e8e8e1",
+        "color_text": "#1c1d1d"
+      }
     }
   },
   "order": [
     "collection-header",
+    "1637847821093bdc39",
     "main-collection",
     "promo-grid",
-    "16328402087ef21544"
+    "16328402087ef21544",
+    "1637849272454d3d9f"
   ]
 }

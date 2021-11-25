@@ -224,7 +224,7 @@
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/vintage_1800x_45c0c4be-5828-4e55-8d87-e1c6d1aa75ff.png",
+              "image": "shopify:\/\/shop_images\/vintage-tepphiche.png",
               "title": "VINTAGE-SCHÖNHEITEN",
               "text": "<p>ENTDECKEN SIE DIE KUNSTWERKE AUS DER VINTAGE-KOLLEKTION - WUNDERSCHÖNE, NEU GESTALTETE ANTIKE PERSERTEPPICHE.<\/p>",
               "button_label": "jetzt speichern",
@@ -235,7 +235,7 @@
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/ratgeber-guide-Beyondknots-5.jpg",
+              "image": "shopify:\/\/shop_images\/Handgeknupft-und-handgewebt-teppiche-BeyondKnots-5.jpg",
               "title": "unser Expertenrat für Sie",
               "text": "<p>BEYONDKNOTS KANN IHNEN HELFEN, DEN PERFEKTEN TEPPICH FÜR IHR ZUHAUSE ZU FINDEN.<\/p>",
               "button_label": "ratgeber",

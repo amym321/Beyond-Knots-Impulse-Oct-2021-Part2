@@ -88,7 +88,7 @@
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
         "thumbnail_arrows": false,
-        "mobile_layout": "partial",
+        "mobile_layout": "full",
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
@@ -173,7 +173,6 @@
     },
     "testimonials": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "testimonials-0": {
           "type": "testimonial",
@@ -222,7 +221,7 @@
         "title": "DAS SAGEN UNSERE KUNDEN AUF TRUSTPILOT",
         "align_text": "center",
         "round_images": true,
-        "color_background": "#caaf75",
+        "color_background": "#e8e8e1",
         "color_text": "#1c1d1d"
       }
     },

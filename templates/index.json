@@ -103,7 +103,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Geld-sparen-BeyondKnots-teppiche.png",
+            "image": "shopify:\/\/shop_images\/Geld-sparen-BeyondKnots-teppiche-2.png",
             "image_width": 60,
             "title": "GROSSHANDELSPREISE",
             "text": "<p><\/p><p>Sparen Sie Geld mit Großhandelspreisen. Wir beziehen die Teppiche direkt von den Knüpfern der einzelnen Länder. Es gibt keine Zwischenhändler, und wir haben Tausende von Teppichen in unserem Lager bereit zum Versand.<\/p>",
@@ -198,35 +198,35 @@
         "987c62be-a81f-4bc1-b768-58da2b978fc1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weniger-als-500-preis-beyondknots4.jpg",
+            "image": "shopify:\/\/shop_images\/weniger-als-500-preis-beyondknots-7.png",
             "link": "shopify:\/\/collections\/shoppen-nach-preis-2"
           }
         },
         "1635977687eb1526d8-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/500-bis-1000-preis-beyondknots3.jpg",
+            "image": "shopify:\/\/shop_images\/500-bis-1000-preis-beyondknots-7.png",
             "link": "shopify:\/\/collections\/shoppen-nach-preis-3"
           }
         },
         "1635977687eb1526d8-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1000-bis-5000-preis-beyondknots3.jpg",
+            "image": "shopify:\/\/shop_images\/1000-bis-5000-preis-beyondknots-7.png",
             "link": "shopify:\/\/collections\/shoppennachpreis"
           }
         },
         "1635977687eb1526d8-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mehr-als-5000-preis-beyondknots-4.jpg",
+            "image": "shopify:\/\/shop_images\/mehr-als-5000-preis-beyondknots-7.png",
             "link": "shopify:\/\/collections\/shoppen-nach-preis"
           }
         },
         "1635977687eb1526d8-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/keine-praferenz-preis-beyondknots-4.jpg",
+            "image": "shopify:\/\/shop_images\/keine-praferenz-preis-beyondknots-7.png",
             "link": "shopify:\/\/collections\/alle-teppiche"
           }
         }
@@ -472,7 +472,7 @@
             "cta_link1": "shopify:\/\/collections\/neuankommlinge",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/Neuzugange-Beyondknots-Teppiche.jpg",
+            "image": "shopify:\/\/shop_images\/Neuzugange-Beyondknots-Teppiche_1a91801b-4f2b-420e-a634-6f7303e9684c.jpg",
             "video_url": "",
             "width": "100",
             "height": 400,
@@ -498,7 +498,7 @@
     "16359778752ac2c08f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/istockphoto-177243247-612x612.jpg",
+        "image": "shopify:\/\/shop_images\/Handgeknupft-und-handgewebt-teppiche-BeyondKnots-2.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "Echte Handwerkskunst zu Großhandelspreisen",
@@ -514,7 +514,7 @@
     "1635991538beb64167": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/istockphoto-491952576-612x612.jpg",
+        "image": "shopify:\/\/shop_images\/NACHHALTIGE-NATURLICHE_TEPPICHE-BeyondKnots.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "Nachhaltige & natürliche Teppiche",
