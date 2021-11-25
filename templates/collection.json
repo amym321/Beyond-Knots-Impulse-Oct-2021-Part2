@@ -175,18 +175,9 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "16378492727fb476fd-4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "testimonial": "<p>Top Qualität, super Kundenservice! Ich habe bei BeyondKnots meinen Traumteppich gefunden! Alles verlief reibungslos. Von der Bestellung, dem Kundenservice bis hin zur Lieferung! Habe einen qualitativ hochwertigen und wunderschönen Teppich erhalten. Immer wieder gerne.<\/p>",
+            "author": "Visctoria I.",
+            "author_info": "Deutschland"
           }
         }
       },
@@ -194,8 +185,7 @@
         "16378492727fb476fd-0",
         "16378492727fb476fd-1",
         "16378492727fb476fd-2",
-        "16378492727fb476fd-3",
-        "16378492727fb476fd-4"
+        "16378492727fb476fd-3"
       ],
       "settings": {
         "title": "Das sagen unsere Kunden auf trustpilot",
