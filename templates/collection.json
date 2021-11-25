@@ -140,6 +140,70 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "1637849272454d3d9f": {
+      "type": "testimonials",
+      "blocks": {
+        "16378492727fb476fd-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16378492727fb476fd-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "16378492727fb476fd-0",
+        "16378492727fb476fd-1",
+        "16378492727fb476fd-2",
+        "16378492727fb476fd-3",
+        "16378492727fb476fd-4"
+      ],
+      "settings": {
+        "title": "Das sagen unsere Kunden auf trustpilot",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#e8e8e1",
+        "color_text": "#1c1d1d"
+      }
     }
   },
   "order": [
@@ -147,6 +211,7 @@
     "1637847821093bdc39",
     "main-collection",
     "promo-grid",
-    "16328402087ef21544"
+    "16328402087ef21544",
+    "1637849272454d3d9f"
   ]
 }
