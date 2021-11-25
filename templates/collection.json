@@ -113,20 +113,20 @@
             "subheading": "",
             "heading": "AUSVERKAUF ZUM SAISONENDE <br><br>MEISTERWERKE DER VERGANGENEN SAISON ZU REDUZIERTEN PREISEN",
             "textarea": "",
-            "cta_text1": "Shop This",
-            "cta_link1": "",
-            "cta_text2": "Shop All",
+            "cta_text1": "JEZT SPEICHERN",
+            "cta_link1": "shopify:\/\/collections\/sale",
+            "cta_text2": "",
             "cta_link2": "",
             "image": "shopify:\/\/shop_images\/Lagerverkauf-zum-Saisonende-Beyondknots-Teppiche_632d53ba-3096-4be3-9b17-3f47c76bae9d.jpg",
             "video_url": "",
             "width": "100",
-            "height": 420,
-            "text_size": 120,
+            "height": 360,
+            "text_size": 50,
             "text_align": "vertical-center horizontal-center",
             "focal_point": "center",
-            "color_accent": "#caaf75",
-            "boxed": false,
-            "framed": false
+            "color_accent": "#2c3542",
+            "boxed": true,
+            "framed": true
           }
         }
       },
