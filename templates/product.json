@@ -171,6 +171,12 @@
         "related_count": 5
       }
     },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -179,7 +185,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Bestellung und Abwicklung war super unkompliziert. Große Auswahl und gute Qualität. Teppich sieht auch super aus, wie auf den Bildern. Immer wieder gern!<\/p>",
-            "author": "SP",
+            "author": "Stefan P.",
             "author_info": "Deutschland"
           }
         },
@@ -206,7 +212,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>Top Qualität, super Kundenservice! Ich habe bei BeyondKnots meinen Traumteppich gefunden! Alles verlief reibungslos. Von der Bestellung, dem Kundenservice bis hin zur Lieferung! Habe einen qualitativ hochwertigen und wunderschönen Teppich erhalten. Immer wieder gerne.<\/p>",
-            "author": "Visctoria I.",
+            "author": "Victoria I.",
             "author_info": "Deutschland"
           }
         }
@@ -225,12 +231,6 @@
         "color_text": "#1c1d1d"
       }
     },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "settings": {
-        "recent_count": 5
-      }
-    },
     "collection-return": {
       "type": "collection-return",
       "settings": {
@@ -242,8 +242,8 @@
     "16366882567b8abd64",
     "sub",
     "product-recommendations",
-    "testimonials",
     "recently-viewed",
+    "testimonials",
     "collection-return"
   ]
 }
