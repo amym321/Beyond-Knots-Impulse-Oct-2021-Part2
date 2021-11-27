@@ -32,7 +32,7 @@
       @media only screen and (max-width: 750px) {
         .map-{{ section.id }} {
           background-position: center;
-          background-image: url("{{ mobile_bg_image }}");
+          background-image: url("{{ mobile_bg_image | img_url: '1800x' }}");
           padding-top: {{ 1 | divided_by: bg_image.aspect_ratio | times: 100 }}%;
         }
       }
