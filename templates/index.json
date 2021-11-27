@@ -753,6 +753,7 @@
         "api_key": "",
         "show_button": false,
         "background_image": "shopify:\/\/shop_images\/Showroom_Map_BeyondKnots_3.jpg",
+        "mobile_background_image": "shopify:\/\/shop_images\/Showroom_Map_BeyondKnots_3.jpg",
         "background_image_position": "bottom center"
       }
     },
