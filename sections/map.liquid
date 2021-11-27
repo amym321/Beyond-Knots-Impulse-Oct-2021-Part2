@@ -9,6 +9,7 @@
   assign display_map = false
   assign onboarding = false
   assign bg_image = section.settings.background_image
+  assign mobile_bg_image = section.settings.mobile_background_image
 
   if section.settings.api_key == blank and bg_image == blank
     assign onboarding = true
@@ -30,6 +31,9 @@
 
       @media only screen and (max-width: 750px) {
         .map-{{ section.id }} {
+          background-size: cover;
+          background-position: center;
+          background-image: url("{{ mobile_bg_image | img_url: '1800x' }}");
           padding-top: {{ 1 | divided_by: bg_image.aspect_ratio | times: 100 }}%;
         }
       }
@@ -110,7 +114,7 @@
       {
         "type": "image_picker",
         "id": "background_image",
-        "label": "Image",
+        "label": "Desktop Image",
         "info": "Use instead of an API key"
       },
       {
@@ -154,10 +158,19 @@
           {
             "label": "Bottom right",
             "value": "bottom right"
-          }
+          },
+          
         ],
         "info": "Used to keep the subject of your photo in view."
+      },
+
+      {
+        "type": "image_picker",
+        "id": "mobile_background_image",
+        "label": "Mobile Image",
+        "info": "Use instead of an API key"
       }
+      
     ],
     "presets": [
       {
