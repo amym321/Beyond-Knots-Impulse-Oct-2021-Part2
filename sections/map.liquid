@@ -31,7 +31,6 @@
 
       @media only screen and (max-width: 750px) {
         .map-{{ section.id }} {
-          background-size: cover;
           background-position: center;
           background-image: url("{{ mobile_bg_image | img_url: '1800x' }}");
           padding-top: {{ 1 | divided_by: bg_image.aspect_ratio | times: 100 }}%;
@@ -114,7 +113,13 @@
       {
         "type": "image_picker",
         "id": "background_image",
-        "label": "Desktop Image",
+        "label": "Image",
+        "info": "Use instead of an API key"
+      },
+      {
+        "type": "image_picker",
+        "id": "mobile_background_image",
+        "label": "Image",
         "info": "Use instead of an API key"
       },
       {
@@ -158,19 +163,10 @@
           {
             "label": "Bottom right",
             "value": "bottom right"
-          },
-          
+          }
         ],
         "info": "Used to keep the subject of your photo in view."
-      },
-
-      {
-        "type": "image_picker",
-        "id": "mobile_background_image",
-        "label": "Mobile Image",
-        "info": "Use instead of an API key"
       }
-      
     ],
     "presets": [
       {
