@@ -25,14 +25,14 @@
       .map-{{ section.id }} {
         background-size: cover;
         background-position: center;
-        background-image: url("{{ bg_image }}");
+        background-image: url("{{ bg_image | img_url: '1800x' }}");
         background-position: {{ section.settings.background_image_position | default: 'center center' }};
       }
 
       @media only screen and (max-width: 750px) {
         .map-{{ section.id }} {
           background-position: center;
-          background-image: url("{{ mobile_bg_image | img_url: '1800x' }}");
+          background-image: url("{{ mobile_bg_image }}");
           padding-top: {{ 1 | divided_by: bg_image.aspect_ratio | times: 100 }}%;
         }
       }
