@@ -10,6 +10,7 @@
     },
     "1637847821093bdc39": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "b7f51620-d452-4dce-92e5-29125151aeba": {
           "type": "advanced",
