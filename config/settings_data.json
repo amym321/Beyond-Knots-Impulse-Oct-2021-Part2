@@ -50,7 +50,7 @@
     "product_save_amount": false,
     "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
-    "product_grid_image_size": "portrait",
+    "product_grid_image_size": "natural",
     "product_grid_image_fill": true,
     "product_hover_image": false,
     "collection_grid_style": "overlaid-box",
