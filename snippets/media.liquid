@@ -89,7 +89,8 @@
           assign zoom_img_url = media.preview_image | img_url: product_zoom_size
         -%}
 
-        <img class="{% if product_zoom_enable %}photoswipe__image{% endif %} lazyload"
+        <img class="{% if product_zoom_enable %}photoswipe__image{% endif %} lazyload
+          {% if  media_height > media_width  %} image-lengthwise {% endif %}"
           data-photoswipe-src="{{ zoom_img_url }}"
           data-photoswipe-width="{{ media_width }}"
           data-photoswipe-height="{{ media_height }}"
