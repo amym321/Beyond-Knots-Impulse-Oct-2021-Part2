@@ -90,7 +90,8 @@
         -%}
 
         <img class="{% if product_zoom_enable %}photoswipe__image{% endif %} lazyload
-          {% if  media_height > media_width  %} image-lengthwise {% endif %}"
+          {% if  media_height > media_width  %} image-lengthwise {% endif %}
+          {% if  media_height <= media_width  %} image-widthwise {% endif %}"
           data-photoswipe-src="{{ zoom_img_url }}"
           data-photoswipe-width="{{ media_width }}"
           data-photoswipe-height="{{ media_height }}"
