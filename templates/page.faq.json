@@ -158,10 +158,9 @@
         },
         "82dc0104-3e07-4480-b282-d7c6a1e6cb95": {
           "type": "question",
-          "disabled": true,
           "settings": {
-            "title": "Wann wird mein Teppich versandt?",
-            "text": "<p>Wir von BeyondKnots legen großen Wert darauf, dass Sie Ihre Ware schnellstmöglich erhalten. Der Versand beträgt daher in der Regel 1-2 Werktage.<\/p>"
+            "title": "Muss ich zuhause sein, wenn der Teppich geliefert wird?",
+            "text": "<p>BeyondKnots arbeitet für den Versand mit DHL Paketzustellungen. Sie müssen daher das Paket nicht persönlich in Empfang nehmen, sondern haben die Möglichkeit über das DHL Portal festzulegen, wo und wann ihr Paket ankommen soll. Haben Sie einen großen Teppich bestellt, wird dieser aufgrund der Paketgröße und des Gewichts über eine Spedition angeliefert. In diesem Falle müssen Sie Ihre Ware persönlich empfangen, können uns jedoch mitteilen, zu welchem Zeitpunkt der Erhalt stattfinden soll.<\/p>"
           }
         },
         "b58c8b5c-c3f9-4e91-bc2b-34fd738e22bf": {
