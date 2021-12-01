@@ -151,10 +151,9 @@
         },
         "8df9f4e6-d330-4fcd-acb7-8adce379d9bf": {
           "type": "question",
-          "disabled": true,
           "settings": {
-            "title": "In welche Länder liefert BeyondKnots?",
-            "text": "<p>Wir liefern unsere Ware weltweit aus. Über unsere Website können Sie Ihre Produkte nach ganz Europa bestellen. Sollte die Bestellung außerhalb der EU liegen, ist das natürlich kein Problem, in diesem Fall schreiben Sie uns einfach eine kurze E-Mail an <span style=\"text-decoration:underline\">info@beyondknots.de<\/span><\/p>"
+            "title": "Wo kann ich meine Bestellung sehen?",
+            "text": "<p>Sobald Sie Ihre Bestellung aufgegeben haben, erhalten Sie eine E-Mail-Bestätigung. Dort bekommen Sie eine klare Übersicht über Ihre Bestellung. Zusätzlich erhalten sie eine Mail inklusive einer Sendeverfolgungsnummer sobald Ihr Produkt versandt wurde.<\/p><p><\/p><p>Für weitere Unterstützung können Sie sich jederzeit per E-Mail an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a> oder telefonisch unter 040 58972639 an unser Kundenservice-Team wenden.<\/p>"
           }
         },
         "82dc0104-3e07-4480-b282-d7c6a1e6cb95": {
