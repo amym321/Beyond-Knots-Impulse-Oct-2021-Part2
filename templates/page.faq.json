@@ -127,6 +127,14 @@
             "text": "<p>Es wird größter Wert daraufgelegt, dass alle Transaktionen auf unserer Website sicher und gemäß den neuesten technologischen Sicherheitsstandards abgewickelt und verarbeitet werden. Es gelten beim Kauf die jeweiligen Datenschutzbestimmungen der Transaktionspartner. Gegebenenfalls geben wir unseren Dienstleistern weitere Daten, die sie zusammen mit den für die Abwicklung der Zahlung notwendigen Daten als unsere Auftragsverarbeiter zum Zwecke der Betrugsprävention und der Optimierung unserer Zahlungsprozesse (z.B. Rechnungsstellung, Abwicklung von angefochtenen Zahlungen, Unterstützung der Buchhaltung) verwenden. <\/p>"
           }
         },
+        "faq-3": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Versand & Rücksendung",
+            "text": "",
+            "align_text": "left"
+          }
+        },
         "53a43d03-821e-4ed3-a1aa-4dfcc81256c3": {
           "type": "question",
           "disabled": true,
@@ -167,15 +175,6 @@
             "text": "<p>Innerhalb Deutschlands dauert der Versand in der Regel 1-3 Werktage. Die Sendungen laufen standardmäßig über den DHL Paketversand und richten sich daher nach den von DHL angegebenen Versandzeiten.<\/p>"
           }
         },
-        "faq-3": {
-          "type": "rich-text",
-          "disabled": true,
-          "settings": {
-            "title": "Versand & Rücksendung",
-            "text": "",
-            "align_text": "left"
-          }
-        },
         "faq-4": {
           "type": "question",
           "disabled": true,
@@ -195,12 +194,12 @@
         "faq-0",
         "b5809e6d-3ca2-434e-b7c5-06395a38cd1c",
         "3da8da3c-5dde-404a-8886-687380c238f2",
+        "faq-3",
         "53a43d03-821e-4ed3-a1aa-4dfcc81256c3",
         "fc8d4e06-938f-4efd-ab20-ecef7881dc89",
         "8df9f4e6-d330-4fcd-acb7-8adce379d9bf",
         "82dc0104-3e07-4480-b282-d7c6a1e6cb95",
         "b58c8b5c-c3f9-4e91-bc2b-34fd738e22bf",
-        "faq-3",
         "faq-4"
       ],
       "settings": {
