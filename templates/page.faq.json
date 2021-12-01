@@ -91,21 +91,19 @@
             "text": "<p>Normalerweise wird der Wertunterschied zwischen zwei ähnlichen Teppichen durch unterschiedliche Knüpfdichten der Knoten bestimmt. Dabei wird die Knüpfdichte in der Knotenanzahl pro m² gemessen. Allerdings ist die Knotendichte bei Orientteppichen nicht das alleinige Argument für deren Wert. Es ist auch wichtig, welche Materialien eingesetzt wurden und wie gut dabei beispielsweise die Wollqualität ist. Weiterhin ist bei Seidenteppichen der reale Seidenanteil von <\/p>"
           }
         },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "Warum sollte ich meinen Teppich bei BeyondKnots kaufen?",
+            "text": "<p>Wir verfügen über langjährige Erfahrung im Bereich des Teppichhandels. Als Traditions-und Familienunternehmen wurde wichtige Kenntnis zu Teppichen, das Erkennen echter Qualität und Sorgfalt im Umgang gelehrt und weitergegeben. So verfügen wir über ein sorgfältig ausgewähltes, gepflegtes und weit gefächertes Angebot unterschiedlichster Teppiche der höchsten Qualität. Der Import unserer BeyondKnots Teppiche erfolgt direkt von den Knüpfereien aus den jeweiligen Ursprungsländern wie Iran, Indien, Pakistan oder Afghanistan und vielen mehr. Bei unseren Teppichen handelt es sich also um ehrliche Originalware, die vor dem Verkauf nicht über etliche Zwischenhändler läuft. Alle unsere Teppiche besitzen ein Echtheitszertifikat, sind ein Unikat und verfügen über eine<br\/>ausgesprochen hohe Qualität.<\/p>"
+          }
+        },
         "faq-0": {
           "type": "rich-text",
-          "disabled": true,
           "settings": {
             "title": "Bestellung & Zahlung",
             "text": "",
             "align_text": "left"
-          }
-        },
-        "faq-1": {
-          "type": "question",
-          "disabled": true,
-          "settings": {
-            "title": "Welche Zahlungsarten kann ich wählen?",
-            "text": "<p>Sie können wählen, ob Sie per Banküberweisung, mit Kreditkarte (VISA oder MasterCard), Apple Pay, American Express oder per Klarna (Rechnung oder Sofortüberweisung) bezahlen möchten. Wählen Sie einfach die Methode beim Auschecken, die Sie bevorzugen und befolgen Sie die angegebenen Schritte.<\/p>"
           }
         },
         "03146670-2c39-43ab-aa83-ea5e8b75b6cb": {
@@ -195,8 +193,8 @@
         "faq-2",
         "83f11198-28bf-4479-96ce-8b30c4139379",
         "de4accbc-4235-46f2-8b9c-968da2699f3d",
-        "faq-0",
         "faq-1",
+        "faq-0",
         "03146670-2c39-43ab-aa83-ea5e8b75b6cb",
         "b5809e6d-3ca2-434e-b7c5-06395a38cd1c",
         "3da8da3c-5dde-404a-8886-687380c238f2",
