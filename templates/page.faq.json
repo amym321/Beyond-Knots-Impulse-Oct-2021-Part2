@@ -165,10 +165,9 @@
         },
         "b58c8b5c-c3f9-4e91-bc2b-34fd738e22bf": {
           "type": "question",
-          "disabled": true,
           "settings": {
-            "title": "Wie lange dauert die Lieferung?",
-            "text": "<p>Innerhalb Deutschlands dauert der Versand in der Regel 1-3 Werktage. Die Sendungen laufen standardmäßig über den DHL Paketversand und richten sich daher nach den von DHL angegebenen Versandzeiten.<\/p>"
+            "title": "Meine Ware wurde bei der Lieferung beschädigt, was nun?",
+            "text": "<p>Sollte es vorkommen, dass das Versandunternehmen einen Schaden an Ihrer Ware verursacht hat, machen sie bitte den Zusteller beziehungsweise das Versandunternehmen darauf aufmerksam. Kontaktieren Sie bitte auch uns um ein weiteres Vorgehen zu besprechen. <\/p>"
           }
         },
         "faq-4": {
