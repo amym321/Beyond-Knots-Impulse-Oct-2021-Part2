@@ -122,10 +122,9 @@
         },
         "3da8da3c-5dde-404a-8886-687380c238f2": {
           "type": "question",
-          "disabled": true,
           "settings": {
-            "title": "Kann ich eine Bestellung ändern oder stornieren?",
-            "text": "<p>Wenn Sie eine bereits getätigte Bestellung stornieren möchten, ist das kein Problem. Melden Sie sich bitte schnellstmöglich entweder über Telefon unter 040 58972639 oder schreiben uns eine Email an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a> <\/p><p>Wir werden Ihre Bestellung so schnell wie möglich stornieren.<\/p>"
+            "title": "Sind die Zahlungsmethoden sicher?",
+            "text": "<p>Es wird größter Wert daraufgelegt, dass alle Transaktionen auf unserer Website sicher und gemäß den neuesten technologischen Sicherheitsstandards abgewickelt und verarbeitet werden. Es gelten beim Kauf die jeweiligen Datenschutzbestimmungen der Transaktionspartner. Gegebenenfalls geben wir unseren Dienstleistern weitere Daten, die sie zusammen mit den für die Abwicklung der Zahlung notwendigen Daten als unsere Auftragsverarbeiter zum Zwecke der Betrugsprävention und der Optimierung unserer Zahlungsprozesse (z.B. Rechnungsstellung, Abwicklung von angefochtenen Zahlungen, Unterstützung der Buchhaltung) verwenden. <\/p>"
           }
         },
         "53a43d03-821e-4ed3-a1aa-4dfcc81256c3": {
