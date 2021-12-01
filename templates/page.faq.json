@@ -65,13 +65,14 @@
         "12c70dae-1413-4a28-95a8-342a6806b2db": {
           "type": "rich-text",
           "settings": {
-            "title": "ALLGEMEINE HINWEISE ZU BEYONDKNOTS",
+            "title": "Allgemeine Fragen und Hinweise zu BeyondKnots",
             "text": "",
             "align_text": "left"
           }
         },
         "faq-2": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Woher stammen die Teppiche von  BeyondKnots",
             "text": "<p>Der Import unserer BeyondKnots Teppiche erfolgt direkt von den Knüpfereien aus den jeweiligen Ursprungsländern wie Iran, Indien, Pakistan oder Afghanistan und vielen mehr. Bei unseren Teppichen handelt es sich also um ehrliche Originalware, die vor dem Verkauf nicht über etliche Zwischenhändler läuft. Alle unsere Teppiche besitzen ein Echtheitszertifikat, sind ein Unikat und verfügen über eine ausgesprochen hohe Qualität.<\/p>"
@@ -79,6 +80,7 @@
         },
         "83f11198-28bf-4479-96ce-8b30c4139379": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Warum sollte ich meinen Teppich bei BeyondKnots kaufen?",
             "text": "<p>Wir verfügen über langjährige Erfahrung im Bereich des Teppichhandels. Als Traditions- und Familienunternehmen wurde wichtige Kenntnis zu Teppichen, das Erkennen echter Qualität  und Sorgfalt im Umgang gelehrt und weitergegeben. So verfügen wir über ein sorgfältig ausgewähltes, gepflegtes und weit gefächertes Angebot unterschiedlichster Teppiche der höchsten Qualität. Dazu bieten wir eine Vielzahl an  Zahlungsmöglichkeiten, kostenloser Versand innerhalb Deutschlands, direkten persönlichen Kundenkontakt und Beratung und Echtheitszertifikat für Ihren Teppich an. Ferner können wir Ihnen bei der Reparatur oder Pflege Ihrer Teppiche weiterhelfen. Ebenfalls haben Sie bei uns die Möglichkeit Ihren Traumteppich vor dem Kauf zu besichtigen. Unser Ziel ist nicht Ihnen irgendeinen Teppich zu verkaufen, sondern den perfekten Teppich nach Ihren Wunschvorstellungen für Sie zu finden.<\/p>"
@@ -86,6 +88,7 @@
         },
         "de4accbc-4235-46f2-8b9c-968da2699f3d": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Wann und wo kann ich die Teppiche ggf. vor dem Kauf besichtigen?",
             "text": "<p>Wenn Sie einen Teppich in unserem Sortiment gefunden haben, dann können Sie diesen gerne vor dem Kauf noch einmal persönlich in unserem Showroom in Hamburg anschauen. Bei Gefallen können Sie den Teppich dann auch direkt mitnehmen.<br\/><br\/>Terminvereinbarungen können Sie täglich von 10 bis 18 Uhr unter der Telefonnummer 0049 \/ 40 58972639 vereinbaren oder Sie senden uns eine E-Mail an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a><\/p>"
@@ -93,14 +96,16 @@
         },
         "faq-0": {
           "type": "rich-text",
+          "disabled": true,
           "settings": {
-            "title": "BESTELLUNG & ZAHLUNG",
+            "title": "Bestellung & Zahlung",
             "text": "",
             "align_text": "left"
           }
         },
         "faq-1": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Welche Zahlungsarten kann ich wählen?",
             "text": "<p>Sie können wählen, ob Sie per Banküberweisung, mit Kreditkarte (VISA oder MasterCard), Apple Pay, American Express oder per Klarna (Rechnung oder Sofortüberweisung) bezahlen möchten. Wählen Sie einfach die Methode beim Auschecken, die Sie bevorzugen und befolgen Sie die angegebenen Schritte.<\/p>"
@@ -108,6 +113,7 @@
         },
         "03146670-2c39-43ab-aa83-ea5e8b75b6cb": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Sind die Zahlungsmethoden sicher?",
             "text": "<p>Es wird größter Wert darauf gelegt, dass alle Transaktionen auf unserer Website sicher und gemäß den neuesten technologischen Sicherheitsstandards abgewickelt und verarbeitet werden. Es gelten beim Kauf die jeweiligen<br\/>Datenschutzbestimmungen der Transaktionspartner. Gegebenenfalls geben wir unseren Dienstleistern weitere Daten, die sie zusammen mit den für die Abwicklung der Zahlung notwendigen Daten als unsere Auftragsverarbeiter zum Zwecke der Betrugsprävention und der Optimierung unserer Zahlungsprozesse (z.B. Rechnungsstellung, Abwicklung von angefochtenen Zahlungen, Unterstützung der Buchhaltung) verwenden. <\/p>"
@@ -115,6 +121,7 @@
         },
         "b5809e6d-3ca2-434e-b7c5-06395a38cd1c": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Wie kann ich einen Teppich kaufen? \/ Wie funktioniert der Bestellvorgang bei BeyondKnots?",
             "text": "<p>Wenn<br\/>Sie das gewünschte Produkt gefunden haben, klicken Sie einfach auf die Option \"In den Warenkorb\", um den Artikel in Ihren Warenkorb zu legen. Sie können ein Produkt auch sofort kaufen, ohne es vorher im Warenkorb abgelegt zu haben. <\/p><p>Wenn<br\/>Sie mehr als einen Artikel kaufen möchten, befolgen Sie die gleichen Schritte und legen Sie jedes Produkt in Ihren Warenkorb.<\/p><p>Wenn<br\/>Sie fertig sind, klicken Sie auf die Schaltfläche \"Zur Kasse“ und befolgen folgen den dort angegebenen Anweisungen, geben sie Ihre gewünschte Zahlungsart und Ihre persönlichen Daten ein.. Sobald Sie Ihre Bestellung aufgegeben haben, erhalten Sie eine E-Mail-Bestätigung. <\/p>"
@@ -122,6 +129,7 @@
         },
         "3da8da3c-5dde-404a-8886-687380c238f2": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Kann ich eine Bestellung ändern oder stornieren?",
             "text": "<p>Wenn Sie eine bereits getätigte Bestellung stornieren möchten, ist das kein Problem. Melden Sie sich bitte schnellstmöglich entweder über Telefon unter 040 58972639 oder schreiben uns eine Email an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a> <\/p><p>Wir werden Ihre Bestellung so schnell wie möglich stornieren.<\/p>"
@@ -129,6 +137,7 @@
         },
         "53a43d03-821e-4ed3-a1aa-4dfcc81256c3": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Wo kann ich meine Bestellung sehen?",
             "text": "<p>Sobald Sie Ihre Bestellung aufgegeben haben, erhalten Sie eine E-Mail-Bestätigung. Dort bekommen Sie eine klare Übersicht über Ihre Bestellung. Zusätzlich erhalten sie eine Mail inklusive einer Sendeverfolgungsnummer sobald Ihr Produkt versand wurde.<\/p><p>Für weitere Unterstützung können Sie sich jederzeit per E-Mail an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a> oder telefonisch unter 040 58972639 an unser Kundenservice-Team wenden.<\/p>"
@@ -136,6 +145,7 @@
         },
         "fc8d4e06-938f-4efd-ab20-ecef7881dc89": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Wie viel kostet meine Lieferung?",
             "text": "<p> Lieferungen innerhalb Deutschlands sind versandkostenfrei. Um die Versandbedingungen für ausländische Standorte zu erfahren, sehen Sie unter unseren <span style=\"text-decoration:underline\">Versandbedingungen <\/span>nach.<\/p>"
@@ -143,6 +153,7 @@
         },
         "8df9f4e6-d330-4fcd-acb7-8adce379d9bf": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "In welche Länder liefert BeyondKnots?",
             "text": "<p>Wir liefern unsere Ware weltweit aus. Über unsere Website können Sie Ihre Produkte nach ganz Europa bestellen. Sollte die Bestellung außerhalb der EU liegen, ist das natürlich kein Problem, in diesem Fall schreiben Sie uns einfach eine kurze E-Mail an <span style=\"text-decoration:underline\">info@beyondknots.de<\/span><\/p>"
@@ -150,6 +161,7 @@
         },
         "82dc0104-3e07-4480-b282-d7c6a1e6cb95": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Wann wird mein Teppich versandt?",
             "text": "<p>Wir von BeyondKnots legen großen Wert darauf, dass Sie Ihre Ware schnellstmöglich erhalten. Der Versand beträgt daher in der Regel 1-2 Werktage.<\/p>"
@@ -157,6 +169,7 @@
         },
         "b58c8b5c-c3f9-4e91-bc2b-34fd738e22bf": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Wie lange dauert die Lieferung?",
             "text": "<p>Innerhalb Deutschlands dauert der Versand in der Regel 1-3 Werktage. Die Sendungen laufen standardmäßig über den DHL Paketversand und richten sich daher nach den von DHL angegebenen Versandzeiten.<\/p>"
@@ -164,14 +177,16 @@
         },
         "faq-3": {
           "type": "rich-text",
+          "disabled": true,
           "settings": {
-            "title": "ÜBER UNSERE TEPPICHE",
+            "title": "Versand & Rücksendung",
             "text": "",
             "align_text": "left"
           }
         },
         "faq-4": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Was sind die Bestandteile eines Orientteppichs?",
             "text": "<p>Ein Orientteppich besteht grundsätzlich aus Kette, Schuss und Flor. Dabei bilden Kette und Schuss das stützende Gewebe und der Flor den belaufenden und gemusterten Teil. Je nach Art und Herkunft des Teppichs bestehen diese Grundstoffe aus verschiedenen Materialien. Wärend Kette und Schuss oftmals aus Baumwolle bestehen, ist der Flor aus hochwertiger Schafwolle oder Seide gefertigt. Bei reinen Seidenteppichen sind auch Kette und Schuss, also alle Bestandteile aus Seidenfasern. Die so genannten Kettfäden sind längst zum Teppich angeordnet und enden zumeist als Fransen am Teppichrand. Quer dazu verlaufen die Schussfäden. An den Überschneidungspunkten entsteht der Flor durch eingeknüpfte Knoten, welcher dann die sichtbare Oberfläche des Teppichs darstellt.<\/p>"
