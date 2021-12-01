@@ -197,7 +197,7 @@
         "type": "newsletter-popup",
         "settings": {
           "mode": "enabled",
-          "popup_seconds": 7,
+          "popup_seconds": 20,
           "popup_days": 14,
           "popup_title": "",
           "popup_image": "shopify:\/\/shop_images\/Newsletter_Beyondknots.jpg",
