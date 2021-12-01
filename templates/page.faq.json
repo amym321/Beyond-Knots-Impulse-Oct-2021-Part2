@@ -137,10 +137,9 @@
         },
         "53a43d03-821e-4ed3-a1aa-4dfcc81256c3": {
           "type": "question",
-          "disabled": true,
           "settings": {
-            "title": "Wo kann ich meine Bestellung sehen?",
-            "text": "<p>Sobald Sie Ihre Bestellung aufgegeben haben, erhalten Sie eine E-Mail-Bestätigung. Dort bekommen Sie eine klare Übersicht über Ihre Bestellung. Zusätzlich erhalten sie eine Mail inklusive einer Sendeverfolgungsnummer sobald Ihr Produkt versand wurde.<\/p><p>Für weitere Unterstützung können Sie sich jederzeit per E-Mail an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a> oder telefonisch unter 040 58972639 an unser Kundenservice-Team wenden.<\/p>"
+            "title": "Lieferkosten und Regionen",
+            "text": "<p>Lieferungen innerhalb Deutschlands sind versandkostenfrei. Um die Versandbedingungen für ausländische Standorte zu erfahren, sehen Sie unter unseren <span style=\"text-decoration:underline\">Versandbedingungen<\/span> nach.<\/p><p><\/p><p>Wir liefern unsere Ware weltweit aus. Über unsere Website können Sie Ihre Produkte nach ganz Europa bestellen. Sollte die Bestellung außerhalb der EU liegen, ist das natürlich kein Problem, in diesem Fall schreiben Sie uns einfach eine kurze E-Mail an <a href=\"mailto:info@beyondknots.de\" target=\"_blank\"><span style=\"text-decoration:underline\">info@beyondknots.de<\/span><\/a><\/p>"
           }
         },
         "fc8d4e06-938f-4efd-ab20-ecef7881dc89": {
