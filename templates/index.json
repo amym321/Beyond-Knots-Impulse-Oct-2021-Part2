@@ -7,9 +7,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "DIREKT VOM KNÜPFER ZU GROSSHANDELSPREISEN",
+            "title": "ECHTE HANDWERKSKUNST <br> ZU GROSSHANDELSPREISEN",
             "title_size": 48,
-            "subheading": "SIE WERDEN SICH ÜBER DIE ERSPARNISSE FREUEN",
+            "subheading": "DIREKT VOM KNÜPFER FÜR IHRE EINRICHTUNG",
             "link": "shopify:\/\/collections\/alle-teppiche",
             "link_text": "Alle teppiche",
             "link_2": "shopify:\/\/collections\/sale",
@@ -17,7 +17,7 @@
             "color_accent": "#caaf75",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/bk-web_267d9f2e-87e5-4e78-8788-09512fffc88b.gif",
-            "overlay_opacity": 2,
+            "overlay_opacity": 20,
             "focal_point": "bottom center"
           }
         },
