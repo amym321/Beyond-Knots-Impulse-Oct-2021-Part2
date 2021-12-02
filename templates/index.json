@@ -7,9 +7,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "EINZIGARTIGE HANDWERKSKUNST <br> ZU GROSSHANDELSPREISEN",
+            "title": "DIREKT VOM KNÜPFER ZU GROSSHANDELSPREISEN",
             "title_size": 48,
-            "subheading": "DIREKT VOM KNÜPFER ZU IHNEN NACH HAUSE",
+            "subheading": "SIE WERDEN SICH ÜBER DIE ERSPARNISSE FREUEN",
             "link": "shopify:\/\/collections\/alle-teppiche",
             "link_text": "Alle teppiche",
             "link_2": "shopify:\/\/collections\/sale",
@@ -17,7 +17,7 @@
             "color_accent": "#caaf75",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/bk-web_267d9f2e-87e5-4e78-8788-09512fffc88b.gif",
-            "overlay_opacity": 20,
+            "overlay_opacity": 2,
             "focal_point": "bottom center"
           }
         },
@@ -25,9 +25,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Einzigartig SchÖN<br>HÖCHSTE QUALITÄT",
+            "title": "Einzigartig Schön. <br> Exquisit Detailliert.",
             "title_size": 55,
-            "subheading": "ECHTE SORGFÄLTIG AUSGEWÄHLTE UNIKATE",
+            "subheading": "ECHTE SORGFÄLTIG AUSGEWÄHLTE TEPPICHE",
             "link": "shopify:\/\/collections\/teppiche",
             "link_text": "jetzt shoppen",
             "link_2": "",
