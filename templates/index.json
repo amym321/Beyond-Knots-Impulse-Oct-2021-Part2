@@ -143,7 +143,7 @@
           "type": "advanced",
           "settings": {
             "subheading": "",
-            "heading": "BIS ZU -70% RABATT",
+            "heading": "BIS ZU -60% RABATT",
             "textarea": "<b>WIR SCHAFFEN IMMER WIEDER PLATZ FÜR UNSERE NEU ERWORBENEN TEPPICHE. <br>KAUFEN SIE JETZT UNSERE MEISTERWERKE DER VERGANGENEN SAISON ZU REDUZIERTEN PREISEN.<\/b>",
             "cta_text1": "JETZT SPAREN",
             "cta_link1": "shopify:\/\/collections\/sale",
@@ -647,29 +647,6 @@
         "color_text": "#1c1d1d"
       }
     },
-    "1635892371a4dd4204": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "a00987cb-0ff4-49e5-9b6b-7857a060eaee": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "disabled": true,
-          "settings": {
-            "heading_font": "tenor_sans_n4",
-            "heading_size": 20,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "a00987cb-0ff4-49e5-9b6b-7857a060eaee"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "16363916050193edba": {
       "type": "rich-text",
       "blocks": {
@@ -793,7 +770,6 @@
     "1635991538beb64167",
     "1636747789ef8e9700",
     "1635892349d25399d0",
-    "1635892371a4dd4204",
     "16363916050193edba",
     "1636391246bc92262d",
     "16373471967c000a90",
