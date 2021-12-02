@@ -35,7 +35,7 @@
             "color_accent": "#caaf75",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/hero_3.jpg",
-            "overlay_opacity": 0,
+            "overlay_opacity": 8,
             "focal_point": "bottom center"
           }
         }
