@@ -57,7 +57,7 @@
         "a1531e5e-72d4-4dd5-b71e-5f804400287d": {
           "type": "subcollections",
           "settings": {
-            "subcollections_per_row": 5
+            "subcollections_per_row": 3
           }
         },
         "product_grid": {
