@@ -11395,12 +11395,23 @@ button .hero__slide-link {
   color:{{ settings.color_announcement_text | default: "#fff" }} !important;
 }
   
-/* Newsletter popup color */
+/* Newsletter popup */
  .modal--square .modal__inner {
   background-color: #fafafa;
   background: #fafafa;
   border-color: var(--colorTextBody);
   border: 3px solid;
+}
+
+@media only screen and (max-width: 768px) {
+  .modal--square .modal__centered-content {
+    padding: 20px;
+    min-height: inherit;
+  }
+}
+
+.newsletter {
+  max-width: 400px;
 }
 
 
@@ -11455,3 +11466,4 @@ button .hero__slide-link {
     padding: 0 100px;
   }
 }
+
