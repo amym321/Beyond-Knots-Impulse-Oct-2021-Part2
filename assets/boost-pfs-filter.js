@@ -5,7 +5,8 @@ var boostPFSFilterConfig = {
     /* Optional */
     loadProductFirst: false,
     refineByStyle: 'style2',
-    filterTreeMobileStyle: 'style1'
+    filterTreeMobileStyle: 'style1',
+  	forceCapitalizeFilterOptionValues: true,
   },
 };
 
