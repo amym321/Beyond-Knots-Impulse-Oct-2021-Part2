@@ -38,7 +38,7 @@
         "16368410856f7ec022-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Wir haben eine Rubrik \"Häufig gestellte Fragen\" eingerichtet, um Sie mit Informationen zu versorgen. Wir würden uns freuen, Ihre Fragen über das unten stehende Kontaktformular beantworten zu können.<\/p>"
           }
         },
@@ -110,7 +110,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Bitte senden Sie uns eine Nachricht. Wir helfen Ihnen gerne weiter!<\/p>"
           }
         }
