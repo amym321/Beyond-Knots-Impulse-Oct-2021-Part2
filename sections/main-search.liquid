@@ -163,7 +163,7 @@
     custom: {
       products_per_page: {% if paginate_by %} {{ paginate_by | json }} {% else %} 24 {% endif %},
       products_per_row: {% if per_row %} {{ per_row }} {% else %} 4 {% endif %},
-      grid_item_width: {% if grid_item_width != blank %} {{ grid_item_width | json }} {% else %} 'small--one-half medium-up--one-quarter' {% endif %},
+      grid_item_width: {% if grid_item_width != blank %} {{ grid_item_width | json }} {% else %} 'small--one-half medium-up--one-third' {% endif %},
       vendor_enable: {% if settings.vendor_enable %} {{ settings.vendor_enable | json }} {% else %} false {% endif %},
       quick_shop_enable: {% if settings.quick_shop_enable %} {{ settings.quick_shop_enable | json }} {% else %} false {% endif %},
       product_hover_image: {% if settings.product_hover_image %} {{ settings.product_hover_image | json }} {% else %} false {% endif %},
