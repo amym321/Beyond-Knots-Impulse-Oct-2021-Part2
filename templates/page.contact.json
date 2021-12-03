@@ -113,11 +113,19 @@
             "enlarge_text": false,
             "text": "<p>Bitte senden Sie uns eine Nachricht. Wir helfen Ihnen gerne weiter!<\/p>"
           }
+        },
+        "4472d56f-b165-435f-ba60-ebf3c376a8f2": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Telefon: +49 (40) 589 72 639<\/p><p>Email: <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a><\/p>"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "4472d56f-b165-435f-ba60-ebf3c376a8f2"
       ],
       "settings": {
         "align_text": "center",
