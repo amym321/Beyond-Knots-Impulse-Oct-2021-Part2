@@ -725,7 +725,7 @@
       "type": "map",
       "settings": {
         "map_title": "Öffnungszeiten des Showrooms",
-        "address": "<p>Papenreye 14, 22453 Hamburg<\/p><p>M - F:  10:00am - 6:00pm<br\/>Sa & So:  Abgeschlossen<br\/><br\/><br\/><\/p>",
+        "address": "<p>Papenreye 14, 22453 Hamburg<\/p><p>Mo - Fr:  10:00am - 6:00pm<br\/>Sa & So:  Abgeschlossen<br\/><br\/><br\/><\/p>",
         "map_address": "Papenreye 14, 22453 Hamburg",
         "api_key": "",
         "show_button": false,
