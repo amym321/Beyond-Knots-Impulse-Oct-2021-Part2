@@ -32,10 +32,63 @@
         "blog_show_excerpt": false,
         "blog_image_size": "wide"
       }
+    },
+    "163858316730b127b1": {
+      "type": "advanced-content",
+      "blocks": {
+        "1638583167d1f7c974-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p><\/p>\n<br><br><br>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1638583167d1f7c974-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1638583134e68922a0": {
+      "type": "newsletter",
+      "blocks": {
+        "1638583134789f485d-0": {
+          "type": "title",
+          "settings": {
+            "title": "Abonnieren Sie unseren Newsletter"
+          }
+        },
+        "1638583134789f485d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aktionen, neue Produkte und Rabatte. Immer up-to-date.<\/p>"
+          }
+        },
+        "1638583134789f485d-2": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1638583134789f485d-0",
+        "1638583134789f485d-1",
+        "1638583134789f485d-2"
+      ],
+      "settings": {
+        "color_background": "#e8e8e1",
+        "color_text": "#1c1d1d"
+      }
     }
   },
   "order": [
     "16376086369d7ac7de",
-    "main"
+    "main",
+    "163858316730b127b1",
+    "1638583134e68922a0"
   ]
 }

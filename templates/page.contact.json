@@ -32,14 +32,14 @@
         "16368410856f7ec022-0": {
           "type": "heading",
           "settings": {
-            "title": "KONTACT & FAQ"
+            "title": "KONTAKT & FAQ"
           }
         },
         "16368410856f7ec022-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Wir haben eine Rubrik \"Häufig gestellte Fragen\" eingerichtet, um Sie mit Informationen zu versorgen. Wir würden uns freuen, Ihre Fragen über das unten stehende Kontaktformular beantworten zu können.<\/p>"
+            "enlarge_text": false,
+            "text": "<p>Du brauchst Hilfe oder möchtest Kontakt zum Kundenservice aufnehmen? Dann bist du hier genau richtig! Wir haben für dich die Antworten auf häufig gestellte Fragen und Kontaktmöglichkeiten zusammengestellt.<\/p>"
           }
         },
         "e5443195-8f83-4af6-b291-ae7586f02d19": {
@@ -110,14 +110,22 @@
         "text": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Bitte senden Sie uns eine Nachricht. Wir helfen Ihnen gerne weiter!<\/p>"
+          }
+        },
+        "4472d56f-b165-435f-ba60-ebf3c376a8f2": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Telefon: +49 (40) 589 72 639<\/p><p>Email: <a href=\"mailto:info@beyondknots.de\" target=\"_blank\">info@beyondknots.de<\/a><\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "4472d56f-b165-435f-ba60-ebf3c376a8f2"
       ],
       "settings": {
         "align_text": "center",
