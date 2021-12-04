@@ -39,7 +39,7 @@
         "1638583167d1f7c974-1": {
           "type": "liquid",
           "settings": {
-            "code": "<p><\/p>",
+            "code": "<p><\/p>\n<br><br><br>",
             "width": "100%",
             "alignment": "center"
           }
@@ -50,7 +50,7 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": false
       }
     },
     "1638583134e68922a0": {
