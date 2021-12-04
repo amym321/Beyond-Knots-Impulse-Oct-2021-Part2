@@ -156,9 +156,9 @@
           {%- endif -%}
           {%- if product.price_varies -%}
             {%- assign price = product.price_min | money -%}
-            {{ 'products.general.from_text_html' | t: price: price }}
+            <span class="sale-price">{{ 'products.general.from_text_html' | t: price: price }}</span>
           {%- else -%}
-            {{ product.price  | money }}
+            <span {% if product.compare_at_price %}class="sale-price"{% endif %}>{{ product.price  | money }}</span>
           {%- endif -%}
           {%- if on_sale -%}
             {%- if settings.product_save_amount -%}

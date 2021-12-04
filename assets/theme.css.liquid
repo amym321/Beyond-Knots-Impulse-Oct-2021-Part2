@@ -11459,12 +11459,8 @@ button .hero__slide-link {
 } 
 
 /* product-recommendations sale price red */
-.product-recommendations .grid-product__price {
-  color: #C20000;
-}
-
-.product-recommendations .grid-product__price--original {
-  color: #000000;
+.grid-product__price .sale-price {
+  color: #C20000 !important;
 }
 
 /* page width on some sections */
@@ -11474,3 +11470,17 @@ button .hero__slide-link {
   }
 }
 
+/* Blog post padding */
+.article {
+  padding-top: 150px;
+}
+@media only screen and (max-width: 768px) {
+  .article {
+    padding-top: 90px;
+  }
+}
+
+/* email field*/
+input-group-field newsletter__input:active {
+  border-color: var(--colorTextBody);
+}
