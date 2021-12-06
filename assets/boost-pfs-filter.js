@@ -95,7 +95,7 @@ var numberQuickViewModalLoaded = 0;
       itemPriceHtml += '<span class="visually-hidden">' + boostPFSConfig.label.sale_price + '</span>';
     }
     if (priceVaries) {
-      itemPriceHtml += boostPFSConfig.label.from_text_html.replace(/{{ price }}/g, Utils.formatMoney(data.price_min));
+      itemPriceHtml += '<span class="grid-product__price--sale">' + boostPFSConfig.label.from_text_html.replace(/{{ price }}/g, Utils.formatMoney(data.price_min)) + '</span>';
     } else {
       itemPriceHtml += '<span class="grid-product__price--sale">' + Utils.formatMoney(data.price_min) + '</span>';
     }
