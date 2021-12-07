@@ -5,15 +5,34 @@
       "settings": {
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "1638884640b20784eb": {
+      "type": "contact-form",
       "settings": {
-        "title": "Popular picks"
+        "title": "Haben sie fragen? kontaktieren sie uns!",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "1638884610af881de7": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Knots of stories",
+        "blog": "knots-of-stories",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
       }
     }
   },
   "order": [
     "main",
-    "featured-collection"
+    "1638884640b20784eb",
+    "1638884610af881de7"
   ]
 }
