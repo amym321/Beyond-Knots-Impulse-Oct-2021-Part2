@@ -309,7 +309,7 @@
       "description": "Beschreibung",
       "in_stock_label": "Auf Lager",
       "stock_label": "{{ count }} auf Lager",
-      "sold_out": "Ausverkauft",
+      "sold_out": "Verkauft",
       "unavailable": "Nicht verfügbar",
       "quantity": "Menge",
       "add_to_cart": "In den Einkaufswagen legen",
