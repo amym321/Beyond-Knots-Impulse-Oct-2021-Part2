@@ -29,13 +29,18 @@
       else
         assign collection_image = collection.products.first.featured_media.preview_image
       endif
+
+      assign subcollect_grid_shape = settings.collection_grid_shape
+      if collection.title contains 'kissen' or collection.title contains 'Kissen' or collection.title contains 'KISSEN' or collection.title contains 'access' or collection.title contains 'Access' or collection.title contains 'ACCESS'
+        assign subcollect_grid_shape = 'square'
+      endif
     -%}
 
     {%- if collection.empty? -%}
       {%- capture placeholder -%}collection-{% cycle 1, 2, 3, 4, 5, 6 %}{%- endcapture -%}
-      <div class="collection-image collection-image--{{ settings.collection_grid_shape }} collection-image--placeholder">{{ placeholder | placeholder_svg_tag: 'placeholder-svg' }}</div>
+      <div class="collection-image collection-image--{{ subcollect_grid_shape }} collection-image--placeholder">{{ placeholder | placeholder_svg_tag: 'placeholder-svg' }}</div>
     {%- else -%}
-      <div class="collection-image collection-image--{{ settings.collection_grid_shape }} image-wrap">
+      <div class="collection-image collection-image--{{ subcollect_grid_shape }} image-wrap">
         {%- assign img_url = collection_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
         <img
           class="lazyload"
