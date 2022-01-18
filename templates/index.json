@@ -72,6 +72,18 @@
         "divider": false
       }
     },
+    "16425118913906aa77": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Samarkand Kollektion",
+        "home_featured_products": "samarkand-kollektion",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "163657754666feead2": {
       "type": "text-columns",
       "blocks": {
@@ -758,6 +770,7 @@
   "order": [
     "slideshow",
     "rich-text",
+    "16425118913906aa77",
     "163657754666feead2",
     "promo-grid2",
     "1636427035fed1dbec",
