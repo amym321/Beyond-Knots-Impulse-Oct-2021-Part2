@@ -53,6 +53,18 @@
         "autoplay_speed": 7
       }
     },
+    "16425118913906aa77": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SPOTLIGHT: Samarkand Kollektion",
+        "home_featured_products": "samarkand-kollektion",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -69,18 +81,6 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
-      }
-    },
-    "16425118913906aa77": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Samarkand Kollektion",
-        "home_featured_products": "samarkand-kollektion",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
         "divider": false
       }
     },
@@ -769,8 +769,8 @@
   },
   "order": [
     "slideshow",
-    "rich-text",
     "16425118913906aa77",
+    "rich-text",
     "163657754666feead2",
     "promo-grid2",
     "1636427035fed1dbec",
