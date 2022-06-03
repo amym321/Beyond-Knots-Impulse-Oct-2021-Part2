@@ -1,6 +1,7 @@
 <div
   data-section-id="{{ section.id }}"
   data-section-type="slideshow-section"
+  	 data-immediate-load
   {% if section.settings.parallax %}data-parallax="true"{% endif %}>
 
   {%- if section.blocks.size > 0 -%}
